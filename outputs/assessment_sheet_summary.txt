@@ -1,0 +1,52 @@
+================================================================================
+CAREBRIDGE HOSPITALS — OUTPATIENT APPOINTMENT INSIGHT
+DS SPRINT SKILL-BASED ASSESSMENT 2 | CHALLENGE ID: U23AD491
+COLLEGE ASSESSMENT SHEET SUMMARY (READY TO COPY)
+================================================================================
+
+Student Details
+- Name: Manojkumar S
+- Register Number: U23AD491
+- Class: [To be confirmed / II M.Sc. Data Science]
+- Challenge ID: U23AD491
+- Title: Hospital Appointment Insight
+
+Round 1
+- Problem Statement: CareBridge Hospitals seeks to uncover drivers of outpatient missed appointments, identify operational scheduling bottlenecks, and improve clinic resource utilization without relying on web dashboards.
+- Dataset Name, Source, Actual Records and Attributes: 5 synthetic relational EHR datasets (data/raw/): appointments.csv (5,012 records, 9 cols), patients.csv (1,500 records, 6 cols), doctors.csv (30 records, 5 cols), reminders.csv (4,278 records, 5 cols), calendar.csv (366 days, 5 cols).
+- Missing-Value Handling: 45 appointments with unresolved/missing status were preserved with a boolean tracking flag and excluded from supervised target modeling to avoid label contamination; reminder channels for walk-ins categorized as 'No Reminder Scheduled'.
+- Duplicate Removal: Identified and purged 12 exact duplicate booking records using primary appointment keys.
+- Outlier Treatment: Detected and corrected 20 invalid negative waiting-day records (booking logged post-appointment) by resetting booking date to appointment date (0 days lead time).
+- Two Actual EDA Findings:
+  1. Lead-Time Decay: Appointments scheduled >14 days in advance exhibit an outpatient no-show rate of ~33.8%, compared to only ~12.2% for same-day/1-3 day bookings.
+  2. Patient Recidivism: Prior no-show frequency is the strongest behavioral determinant; patients with 2 or more historical missed appointments show a recidivism rate exceeding 45.1%.
+
+Round 2
+- Selected Input Features: 21 leak-free predictors including waiting_days, waiting_time_group, appointment_hour, weekday, month, season, is_weekend, is_holiday, department, doctor_specialty, clinic_schedule, age, age_group, locality, reminder_type, reminder_sent, reminder_response, plus point-in-time prior_appointments_count, prior_noshow_count, prior_noshow_rate, and repeat_noshow_category.
+- Target Variable: Binary classification target (1 = No-show, 0 = Attended); non-binary visits (Cancelled, Rescheduled, Pending, Unresolved) strictly excluded.
+- Selected ML Algorithm: Logistic Regression with Class-Balanced Weighting (Scikit-learn Pipeline with ColumnTransformer, StandardScaler, and OneHotEncoder).
+- Algorithm Justification: In outpatient scheduling, false negatives (failing to identify an upcoming missed visit) directly cause clinician downtime and lost capacity. Logistic Regression was selected over Dummy Baseline and Random Forest because it maximizes Recall (55.20%) and minority F1-score (0.4136), whereas Dummy baseline yields 0% recall despite superficial 75.3% accuracy.
+- Actual Accuracy and F1-Score: Hold-out test accuracy = 61.30%; F1-Score (Positive Class: No-show) = 0.4136; Recall = 55.20%; ROC-AUC = 0.6212.
+
+Round 3
+- Excel Chart Names:
+  1. Appointment Status Breakdown (Donut Chart - Summary Dashboard)
+  2. Department No-show Rates (Clustered Column Chart - Summary Dashboard & Department Analysis)
+  3. Day-wise No-show Rates (Clustered Column Chart - Summary Dashboard & Day-wise Attendance)
+  4. Reminder Channel No-show Comparison (Clustered Column Chart - Summary Dashboard & Reminder Analysis)
+  5. Booking Lead Time vs No-show Probability (Column Chart - Waiting-Time Analysis)
+  6. Patient Recidivism by Prior Miss History (Column Chart - Repeat No-shows)
+  7. Physician Appointment Workload Proxy (Horizontal Bar Chart - Clinic Utilization)
+  8. ML Model Benchmark Comparison (Clustered Column Chart - ML Model Results)
+- Two Actual Key Insights:
+  1. Communication Channel Impact: Confirmed reminder interactions (SMS/Phone) correlate with an attendance rate of >86%, highlighting engagement as a critical operational lever.
+  2. Department Vulnerability: High-volume General Medicine and Orthopedics clinics suffer the highest absolute missed visit volumes, representing primary candidates for scheduling intervention.
+- Description of Excel-based Analysis Outcome: Delivered an interactive, professional 10-sheet Microsoft Excel workbook (outputs/Hospital_Appointment_Insight.xlsx) featuring dynamic formula tables (COUNTIF, COUNTIFS, IFERROR), Table styles, conditional formatting, frozen panes, and executive KPI cards.
+- Two Practical Recommendations:
+  1. Tiered Multi-Channel Automated Reminders: Dispatch interactive 2-way SMS/Phone reminders at 7 days and 48 hours for appointments with lead times >7 days and patients with prior missed visits.
+  2. Algorithmic Overbooking: Implement controlled 1-slot overbooking for high-risk General Medicine clinics based on model prediction probabilities to protect physician clinical utilization.
+
+Final Submission
+- GitHub Repository URL Placeholder: https://github.com/manojkumar-s/hospital-appointment-insight
+- Overall Result in 2–3 Lines: The end-to-end pipeline successfully audited 5,012 outpatient records, engineered leakage-free behavioral predictors, trained an operationally balanced ML classifier achieving 55.2% no-show recall, and generated an executive-grade 10-sheet Microsoft Excel reporting deliverable.
+================================================================================
