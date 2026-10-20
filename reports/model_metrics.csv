@@ -1,0 +1,4 @@
+model_name,accuracy,precision,recall,f1_score,roc_auc,selection_status
+Dummy Classifier,0.7528,0.0,0.0,0.0,0.5,Candidate
+Logistic Regression,0.6119,0.3297,0.552,0.4129,0.6212,Selected Champion
+Random Forest,0.7159,0.3514,0.1765,0.2349,0.6105,Candidate

@@ -1,0 +1,40 @@
+CAREBRIDGE HOSPITALS - OUTPATIENT NO-SHOW PREDICTION MODEL EVALUATION
+DS Sprint Skill-Based Assessment 2 | Challenge ID: U23AD491
+===========================================================================
+
+1. TARGET VARIABLE DEFINITION
+   - Positive Class (1): No-show (patient did not attend scheduled visit)
+   - Negative Class (0): Attended (patient completed appointment)
+   - Unresolved, cancelled, rescheduled, and pending records were excluded from
+     binary training to maintain clinical label integrity.
+
+2. SPLIT METHODOLOGY
+   - Strategy: Strict chronological train-test split (80% train, 20% test).
+   - Training set size: 3576 (approx)
+   - Test set size: 894
+   - Temporal structure strictly preserved to mimic real-world deployment.
+
+3. PERFORMANCE BENCHMARKING ON HOLD-OUT TEST SET
+---------------------------------------------------------------------------
+Model Name             | Accuracy  | Precision | Recall    | F1-Score  | ROC-AUC   | Status
+---------------------------------------------------------------------------
+Dummy Classifier       | 0.7528    | 0.0       | 0.0       | 0.0       | 0.5       | Candidate
+Logistic Regression    | 0.6119    | 0.3297    | 0.552     | 0.4129    | 0.6212    | Selected Champion
+Random Forest          | 0.7159    | 0.3514    | 0.1765    | 0.2349    | 0.6105    | Candidate
+---------------------------------------------------------------------------
+
+4. CHAMPION MODEL SELECTION RATIONALE
+   The 'Logistic Regression' model was selected as the operational champion.
+   In outpatient appointment scheduling, false negatives (failing to identify an upcoming
+   no-show) lead to idle physician time and lost clinic capacity. Therefore, the selection
+   prioritizes balanced F1-score and ROC-AUC over simple accuracy.
+
+5. CONFUSION MATRIX (CHAMPION MODEL)
+   True Attended  (TN): 425   | False No-show (FP): 248  
+   False Attended (FN): 99    | True No-show  (TP): 122  
+
+6. KEY PREDICTIVE SIGNALS
+   - Booking Lead Time (waiting_days): Long lead times (>7 days) correlate with higher no-show risk.
+   - Prior Patient History (prior_noshow_count & prior_noshow_rate): The single strongest predictor.
+   - Reminder Status (reminder_sent & reminder_response): Confirmed reminders dramatically reduce risk.
+   - Age Cohort & Departmental variations provide actionable secondary signals.
