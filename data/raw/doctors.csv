@@ -1,0 +1,31 @@
+doctor_id,doctor_name,specialty,clinic_schedule,working_days
+DOC-101,Dr. James Smith,Cardiology,Morning Shift (08:30-12:30),Mon-Wed-Fri
+DOC-102,Dr. Mary Johnson,Orthopedics,Afternoon Shift (13:30-17:30),Tue-Thu-Sat
+DOC-103,Dr. John Williams,Dermatology,Full Day (09:00-17:00),Mon-Tue-Wed-Thu-Fri
+DOC-104,Dr. Patricia Brown,Neurology,Morning Shift (08:30-12:30),Mon-Tue-Thu
+DOC-105,Dr. Robert Jones,Pediatrics,Afternoon Shift (13:30-17:30),Wed-Fri-Sat
+DOC-106,Dr. Jennifer Garcia,General Medicine,Full Day (09:00-17:00),Mon-Wed-Fri
+DOC-107,Dr. Michael Miller,ENT,Morning Shift (08:30-12:30),Tue-Thu-Sat
+DOC-108,Dr. Linda Davis,Ophthalmology,Afternoon Shift (13:30-17:30),Mon-Tue-Wed-Thu-Fri
+DOC-109,Dr. William Rodriguez,Cardiology,Full Day (09:00-17:00),Mon-Tue-Thu
+DOC-110,Dr. Elizabeth Martinez,Orthopedics,Morning Shift (08:30-12:30),Wed-Fri-Sat
+DOC-111,Dr. David Hernandez,Dermatology,Afternoon Shift (13:30-17:30),Mon-Wed-Fri
+DOC-112,Dr. Barbara Lopez,Neurology,Full Day (09:00-17:00),Tue-Thu-Sat
+DOC-113,Dr. Richard Gonzalez,Pediatrics,Morning Shift (08:30-12:30),Mon-Tue-Wed-Thu-Fri
+DOC-114,Dr. Susan Wilson,General Medicine,Afternoon Shift (13:30-17:30),Mon-Tue-Thu
+DOC-115,Dr. Joseph Anderson,ENT,Full Day (09:00-17:00),Wed-Fri-Sat
+DOC-116,Dr. Jessica Thomas,Ophthalmology,Morning Shift (08:30-12:30),Mon-Wed-Fri
+DOC-117,Dr. Thomas Taylor,Cardiology,Afternoon Shift (13:30-17:30),Tue-Thu-Sat
+DOC-118,Dr. Sarah Moore,Orthopedics,Full Day (09:00-17:00),Mon-Tue-Wed-Thu-Fri
+DOC-119,Dr. Charles Jackson,Dermatology,Morning Shift (08:30-12:30),Mon-Tue-Thu
+DOC-120,Dr. Karen Martin,Neurology,Afternoon Shift (13:30-17:30),Wed-Fri-Sat
+DOC-121,Dr. Christopher Lee,Pediatrics,Full Day (09:00-17:00),Mon-Wed-Fri
+DOC-122,Dr. Nancy Perez,General Medicine,Morning Shift (08:30-12:30),Tue-Thu-Sat
+DOC-123,Dr. Daniel Thompson,ENT,Afternoon Shift (13:30-17:30),Mon-Tue-Wed-Thu-Fri
+DOC-124,Dr. Lisa White,Ophthalmology,Full Day (09:00-17:00),Mon-Tue-Thu
+DOC-125,Dr. Matthew Harris,Cardiology,Morning Shift (08:30-12:30),Wed-Fri-Sat
+DOC-126,Dr. Margaret Sanchez,Orthopedics,Afternoon Shift (13:30-17:30),Mon-Wed-Fri
+DOC-127,Dr. Anthony Clark,Dermatology,Full Day (09:00-17:00),Tue-Thu-Sat
+DOC-128,Dr. Betty Ramirez,Neurology,Morning Shift (08:30-12:30),Mon-Tue-Wed-Thu-Fri
+DOC-129,Dr. Donald Lewis,Pediatrics,Afternoon Shift (13:30-17:30),Mon-Tue-Thu
+DOC-130,Dr. Sandra Robinson,General Medicine,Full Day (09:00-17:00),Wed-Fri-Sat

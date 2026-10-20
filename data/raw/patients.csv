@@ -1,0 +1,1501 @@
+patient_id,age,age_group,locality,previous_appointments,previous_no_shows
+PAT-1001,54,Middle-Aged (36-55),South District,4,2
+PAT-1002,42,Middle-Aged (36-55),North District,4,2
+PAT-1003,57,Senior (56+),Central Valley,0,0
+PAT-1004,75,Senior (56+),West District,1,0
+PAT-1005,40,Middle-Aged (36-55),West District,4,2
+PAT-1006,40,Middle-Aged (36-55),East District,6,2
+PAT-1007,76,Senior (56+),South District,4,0
+PAT-1008,60,Senior (56+),South District,4,1
+PAT-1009,35,Young Adult (18-35),Metro Core,4,0
+PAT-1010,55,Middle-Aged (36-55),North District,1,1
+PAT-1011,35,Young Adult (18-35),North District,0,0
+PAT-1012,35,Young Adult (18-35),South District,5,1
+PAT-1013,49,Middle-Aged (36-55),West District,3,1
+PAT-1014,6,Pediatric (0-17),West District,2,2
+PAT-1015,10,Pediatric (0-17),North District,2,0
+PAT-1016,33,Young Adult (18-35),West District,2,2
+PAT-1017,24,Young Adult (18-35),Metro Core,4,0
+PAT-1018,51,Middle-Aged (36-55),West District,6,1
+PAT-1019,26,Young Adult (18-35),Suburbia,5,1
+PAT-1020,16,Pediatric (0-17),Central Valley,4,1
+PAT-1021,74,Senior (56+),North District,3,2
+PAT-1022,40,Middle-Aged (36-55),East District,5,0
+PAT-1023,46,Middle-Aged (36-55),Metro Core,2,1
+PAT-1024,16,Pediatric (0-17),Riverside,1,0
+PAT-1025,34,Young Adult (18-35),Central Valley,2,0
+PAT-1026,47,Middle-Aged (36-55),East District,3,2
+PAT-1027,21,Young Adult (18-35),West District,5,4
+PAT-1028,52,Middle-Aged (36-55),Riverside,6,5
+PAT-1029,32,Young Adult (18-35),South District,2,0
+PAT-1030,39,Middle-Aged (36-55),South District,2,2
+PAT-1031,32,Young Adult (18-35),Metro Core,5,1
+PAT-1032,82,Senior (56+),South District,2,1
+PAT-1033,44,Middle-Aged (36-55),Riverside,2,1
+PAT-1034,23,Young Adult (18-35),Riverside,6,1
+PAT-1035,61,Senior (56+),Central Valley,4,1
+PAT-1036,20,Young Adult (18-35),North District,5,1
+PAT-1037,49,Middle-Aged (36-55),Suburbia,4,2
+PAT-1038,5,Pediatric (0-17),South District,3,2
+PAT-1039,18,Young Adult (18-35),Metro Core,3,1
+PAT-1040,48,Middle-Aged (36-55),South District,2,1
+PAT-1041,59,Senior (56+),Central Valley,4,0
+PAT-1042,48,Middle-Aged (36-55),Riverside,3,1
+PAT-1043,42,Middle-Aged (36-55),West District,4,1
+PAT-1044,38,Middle-Aged (36-55),South District,2,1
+PAT-1045,15,Pediatric (0-17),North District,4,2
+PAT-1046,30,Young Adult (18-35),West District,1,1
+PAT-1047,35,Young Adult (18-35),Central Valley,5,2
+PAT-1048,66,Senior (56+),South District,7,1
+PAT-1049,51,Middle-Aged (36-55),West District,1,0
+PAT-1050,9,Pediatric (0-17),South District,1,0
+PAT-1051,51,Middle-Aged (36-55),Metro Core,3,0
+PAT-1052,37,Middle-Aged (36-55),Central Valley,1,0
+PAT-1053,31,Young Adult (18-35),Suburbia,0,0
+PAT-1054,57,Senior (56+),Riverside,1,0
+PAT-1055,65,Senior (56+),East District,1,0
+PAT-1056,63,Senior (56+),Riverside,2,0
+PAT-1057,28,Young Adult (18-35),Riverside,3,2
+PAT-1058,38,Middle-Aged (36-55),West District,4,0
+PAT-1059,51,Middle-Aged (36-55),Central Valley,1,0
+PAT-1060,64,Senior (56+),South District,4,1
+PAT-1061,35,Young Adult (18-35),East District,7,2
+PAT-1062,41,Middle-Aged (36-55),West District,1,0
+PAT-1063,22,Young Adult (18-35),East District,3,1
+PAT-1064,21,Young Adult (18-35),Suburbia,3,1
+PAT-1065,61,Senior (56+),Metro Core,4,2
+PAT-1066,72,Senior (56+),Central Valley,1,0
+PAT-1067,43,Middle-Aged (36-55),West District,2,1
+PAT-1068,65,Senior (56+),Riverside,2,0
+PAT-1069,52,Middle-Aged (36-55),North District,3,1
+PAT-1070,32,Young Adult (18-35),West District,2,0
+PAT-1071,52,Middle-Aged (36-55),North District,5,2
+PAT-1072,75,Senior (56+),Riverside,5,0
+PAT-1073,44,Middle-Aged (36-55),Metro Core,4,3
+PAT-1074,76,Senior (56+),Central Valley,3,0
+PAT-1075,1,Pediatric (0-17),South District,2,1
+PAT-1076,61,Senior (56+),West District,5,1
+PAT-1077,46,Middle-Aged (36-55),Riverside,5,3
+PAT-1078,39,Middle-Aged (36-55),West District,1,0
+PAT-1079,46,Middle-Aged (36-55),Suburbia,1,0
+PAT-1080,5,Pediatric (0-17),Metro Core,3,0
+PAT-1081,40,Middle-Aged (36-55),Suburbia,5,2
+PAT-1082,52,Middle-Aged (36-55),East District,3,1
+PAT-1083,74,Senior (56+),Central Valley,2,1
+PAT-1084,34,Young Adult (18-35),East District,5,1
+PAT-1085,28,Young Adult (18-35),West District,1,0
+PAT-1086,34,Young Adult (18-35),Central Valley,4,0
+PAT-1087,63,Senior (56+),Metro Core,6,1
+PAT-1088,51,Middle-Aged (36-55),Metro Core,1,0
+PAT-1089,34,Young Adult (18-35),Riverside,3,1
+PAT-1090,55,Middle-Aged (36-55),West District,3,1
+PAT-1091,46,Middle-Aged (36-55),East District,2,0
+PAT-1092,64,Senior (56+),Suburbia,1,0
+PAT-1093,30,Young Adult (18-35),South District,5,2
+PAT-1094,38,Middle-Aged (36-55),North District,6,1
+PAT-1095,37,Middle-Aged (36-55),South District,3,0
+PAT-1096,15,Pediatric (0-17),East District,2,0
+PAT-1097,50,Middle-Aged (36-55),East District,5,2
+PAT-1098,50,Middle-Aged (36-55),Metro Core,2,1
+PAT-1099,45,Middle-Aged (36-55),South District,0,0
+PAT-1100,40,Middle-Aged (36-55),Metro Core,2,0
+PAT-1101,16,Pediatric (0-17),Metro Core,3,1
+PAT-1102,36,Middle-Aged (36-55),Suburbia,2,1
+PAT-1103,38,Middle-Aged (36-55),Central Valley,2,0
+PAT-1104,28,Young Adult (18-35),North District,3,3
+PAT-1105,41,Middle-Aged (36-55),South District,3,0
+PAT-1106,53,Middle-Aged (36-55),Central Valley,3,0
+PAT-1107,82,Senior (56+),Riverside,7,2
+PAT-1108,48,Middle-Aged (36-55),South District,3,1
+PAT-1109,50,Middle-Aged (36-55),Central Valley,4,1
+PAT-1110,43,Middle-Aged (36-55),Metro Core,3,1
+PAT-1111,6,Pediatric (0-17),East District,3,1
+PAT-1112,44,Middle-Aged (36-55),Suburbia,3,1
+PAT-1113,46,Middle-Aged (36-55),North District,2,1
+PAT-1114,88,Senior (56+),Central Valley,0,0
+PAT-1115,41,Middle-Aged (36-55),East District,4,1
+PAT-1116,51,Middle-Aged (36-55),South District,5,1
+PAT-1117,44,Middle-Aged (36-55),Central Valley,2,0
+PAT-1118,21,Young Adult (18-35),West District,1,0
+PAT-1119,67,Senior (56+),East District,1,0
+PAT-1120,60,Senior (56+),Riverside,0,0
+PAT-1121,60,Senior (56+),East District,3,0
+PAT-1122,26,Young Adult (18-35),North District,3,3
+PAT-1123,73,Senior (56+),Riverside,2,0
+PAT-1124,16,Pediatric (0-17),Suburbia,1,1
+PAT-1125,56,Senior (56+),North District,4,1
+PAT-1126,88,Senior (56+),South District,4,1
+PAT-1127,25,Young Adult (18-35),Riverside,2,0
+PAT-1128,33,Young Adult (18-35),Central Valley,3,3
+PAT-1129,46,Middle-Aged (36-55),West District,0,0
+PAT-1130,34,Young Adult (18-35),North District,1,0
+PAT-1131,13,Pediatric (0-17),West District,7,1
+PAT-1132,46,Middle-Aged (36-55),South District,3,1
+PAT-1133,23,Young Adult (18-35),South District,4,2
+PAT-1134,54,Middle-Aged (36-55),Suburbia,1,1
+PAT-1135,26,Young Adult (18-35),South District,4,0
+PAT-1136,75,Senior (56+),East District,0,0
+PAT-1137,29,Young Adult (18-35),East District,2,0
+PAT-1138,38,Middle-Aged (36-55),Suburbia,4,3
+PAT-1139,61,Senior (56+),East District,3,1
+PAT-1140,20,Young Adult (18-35),Central Valley,2,2
+PAT-1141,49,Middle-Aged (36-55),Metro Core,2,1
+PAT-1142,71,Senior (56+),West District,3,1
+PAT-1143,12,Pediatric (0-17),West District,0,0
+PAT-1144,48,Middle-Aged (36-55),Central Valley,2,0
+PAT-1145,50,Middle-Aged (36-55),Metro Core,1,0
+PAT-1146,60,Senior (56+),Riverside,4,2
+PAT-1147,20,Young Adult (18-35),Suburbia,1,1
+PAT-1148,18,Young Adult (18-35),Suburbia,2,1
+PAT-1149,55,Middle-Aged (36-55),South District,3,0
+PAT-1150,50,Middle-Aged (36-55),West District,5,2
+PAT-1151,50,Middle-Aged (36-55),West District,3,0
+PAT-1152,51,Middle-Aged (36-55),South District,3,1
+PAT-1153,31,Young Adult (18-35),Riverside,2,2
+PAT-1154,49,Middle-Aged (36-55),North District,3,0
+PAT-1155,50,Middle-Aged (36-55),West District,3,1
+PAT-1156,30,Young Adult (18-35),West District,2,0
+PAT-1157,82,Senior (56+),North District,3,2
+PAT-1158,54,Middle-Aged (36-55),South District,3,2
+PAT-1159,21,Young Adult (18-35),North District,2,0
+PAT-1160,58,Senior (56+),West District,2,0
+PAT-1161,25,Young Adult (18-35),South District,4,1
+PAT-1162,60,Senior (56+),North District,3,0
+PAT-1163,68,Senior (56+),Riverside,3,0
+PAT-1164,28,Young Adult (18-35),South District,4,2
+PAT-1165,64,Senior (56+),West District,2,1
+PAT-1166,53,Middle-Aged (36-55),Central Valley,0,0
+PAT-1167,61,Senior (56+),Suburbia,3,0
+PAT-1168,82,Senior (56+),West District,3,0
+PAT-1169,40,Middle-Aged (36-55),East District,2,1
+PAT-1170,29,Young Adult (18-35),Suburbia,2,1
+PAT-1171,27,Young Adult (18-35),West District,5,2
+PAT-1172,28,Young Adult (18-35),Suburbia,2,2
+PAT-1173,43,Middle-Aged (36-55),Metro Core,3,0
+PAT-1174,51,Middle-Aged (36-55),West District,5,2
+PAT-1175,50,Middle-Aged (36-55),South District,4,0
+PAT-1176,61,Senior (56+),South District,2,0
+PAT-1177,45,Middle-Aged (36-55),Metro Core,3,1
+PAT-1178,74,Senior (56+),Riverside,2,1
+PAT-1179,39,Middle-Aged (36-55),Metro Core,4,2
+PAT-1180,88,Senior (56+),Metro Core,3,0
+PAT-1181,57,Senior (56+),Suburbia,3,0
+PAT-1182,27,Young Adult (18-35),North District,3,1
+PAT-1183,23,Young Adult (18-35),South District,6,0
+PAT-1184,54,Middle-Aged (36-55),North District,1,0
+PAT-1185,40,Middle-Aged (36-55),Metro Core,6,0
+PAT-1186,59,Senior (56+),Riverside,4,0
+PAT-1187,54,Middle-Aged (36-55),South District,3,1
+PAT-1188,43,Middle-Aged (36-55),West District,1,0
+PAT-1189,28,Young Adult (18-35),West District,4,0
+PAT-1190,14,Pediatric (0-17),West District,2,0
+PAT-1191,36,Middle-Aged (36-55),Suburbia,8,2
+PAT-1192,62,Senior (56+),East District,2,0
+PAT-1193,49,Middle-Aged (36-55),Metro Core,4,0
+PAT-1194,20,Young Adult (18-35),East District,5,0
+PAT-1195,48,Middle-Aged (36-55),Central Valley,0,0
+PAT-1196,52,Middle-Aged (36-55),Suburbia,3,3
+PAT-1197,27,Young Adult (18-35),West District,2,1
+PAT-1198,48,Middle-Aged (36-55),South District,4,0
+PAT-1199,46,Middle-Aged (36-55),Suburbia,4,0
+PAT-1200,22,Young Adult (18-35),South District,1,0
+PAT-1201,52,Middle-Aged (36-55),North District,5,2
+PAT-1202,56,Senior (56+),North District,1,0
+PAT-1203,66,Senior (56+),South District,2,1
+PAT-1204,66,Senior (56+),West District,3,2
+PAT-1205,17,Pediatric (0-17),East District,3,0
+PAT-1206,26,Young Adult (18-35),Metro Core,6,0
+PAT-1207,55,Middle-Aged (36-55),Suburbia,2,0
+PAT-1208,55,Middle-Aged (36-55),Suburbia,4,1
+PAT-1209,55,Middle-Aged (36-55),West District,5,2
+PAT-1210,88,Senior (56+),Metro Core,6,1
+PAT-1211,56,Senior (56+),North District,4,1
+PAT-1212,67,Senior (56+),East District,1,0
+PAT-1213,64,Senior (56+),Metro Core,2,0
+PAT-1214,58,Senior (56+),North District,1,0
+PAT-1215,38,Middle-Aged (36-55),Metro Core,2,1
+PAT-1216,60,Senior (56+),Central Valley,2,1
+PAT-1217,29,Young Adult (18-35),Suburbia,1,1
+PAT-1218,40,Middle-Aged (36-55),Central Valley,3,0
+PAT-1219,35,Young Adult (18-35),Metro Core,4,2
+PAT-1220,46,Middle-Aged (36-55),Suburbia,5,1
+PAT-1221,88,Senior (56+),East District,4,1
+PAT-1222,7,Pediatric (0-17),West District,1,0
+PAT-1223,58,Senior (56+),Central Valley,3,2
+PAT-1224,12,Pediatric (0-17),West District,1,1
+PAT-1225,35,Young Adult (18-35),North District,1,0
+PAT-1226,66,Senior (56+),North District,1,0
+PAT-1227,46,Middle-Aged (36-55),Riverside,1,1
+PAT-1228,23,Young Adult (18-35),North District,3,2
+PAT-1229,30,Young Adult (18-35),North District,3,1
+PAT-1230,58,Senior (56+),Suburbia,4,0
+PAT-1231,30,Young Adult (18-35),East District,1,0
+PAT-1232,49,Middle-Aged (36-55),North District,5,2
+PAT-1233,45,Middle-Aged (36-55),South District,4,1
+PAT-1234,31,Young Adult (18-35),East District,4,1
+PAT-1235,87,Senior (56+),South District,3,0
+PAT-1236,57,Senior (56+),South District,6,1
+PAT-1237,4,Pediatric (0-17),West District,4,1
+PAT-1238,48,Middle-Aged (36-55),Metro Core,5,1
+PAT-1239,31,Young Adult (18-35),South District,2,0
+PAT-1240,62,Senior (56+),West District,1,0
+PAT-1241,29,Young Adult (18-35),North District,4,3
+PAT-1242,42,Middle-Aged (36-55),South District,4,2
+PAT-1243,55,Middle-Aged (36-55),Metro Core,4,0
+PAT-1244,62,Senior (56+),Riverside,1,0
+PAT-1245,20,Young Adult (18-35),Central Valley,5,1
+PAT-1246,38,Middle-Aged (36-55),West District,2,0
+PAT-1247,35,Young Adult (18-35),Riverside,5,2
+PAT-1248,31,Young Adult (18-35),West District,6,2
+PAT-1249,80,Senior (56+),Central Valley,1,1
+PAT-1250,53,Middle-Aged (36-55),Metro Core,4,0
+PAT-1251,19,Young Adult (18-35),East District,4,0
+PAT-1252,63,Senior (56+),Central Valley,0,0
+PAT-1253,87,Senior (56+),Suburbia,4,1
+PAT-1254,65,Senior (56+),Riverside,2,1
+PAT-1255,14,Pediatric (0-17),South District,3,0
+PAT-1256,35,Young Adult (18-35),North District,1,1
+PAT-1257,70,Senior (56+),Suburbia,2,0
+PAT-1258,30,Young Adult (18-35),South District,3,1
+PAT-1259,53,Middle-Aged (36-55),South District,5,1
+PAT-1260,60,Senior (56+),West District,1,0
+PAT-1261,26,Young Adult (18-35),Central Valley,1,0
+PAT-1262,43,Middle-Aged (36-55),East District,4,0
+PAT-1263,1,Pediatric (0-17),Riverside,2,0
+PAT-1264,24,Young Adult (18-35),South District,5,1
+PAT-1265,39,Middle-Aged (36-55),West District,2,1
+PAT-1266,20,Young Adult (18-35),Riverside,4,2
+PAT-1267,77,Senior (56+),Central Valley,6,1
+PAT-1268,16,Pediatric (0-17),East District,3,0
+PAT-1269,36,Middle-Aged (36-55),Suburbia,2,0
+PAT-1270,47,Middle-Aged (36-55),Central Valley,1,1
+PAT-1271,73,Senior (56+),North District,2,0
+PAT-1272,16,Pediatric (0-17),Central Valley,3,0
+PAT-1273,68,Senior (56+),South District,2,0
+PAT-1274,45,Middle-Aged (36-55),East District,2,0
+PAT-1275,25,Young Adult (18-35),Central Valley,3,0
+PAT-1276,54,Middle-Aged (36-55),South District,8,3
+PAT-1277,48,Middle-Aged (36-55),South District,5,1
+PAT-1278,32,Young Adult (18-35),East District,5,3
+PAT-1279,46,Middle-Aged (36-55),Central Valley,0,0
+PAT-1280,37,Middle-Aged (36-55),Central Valley,2,0
+PAT-1281,47,Middle-Aged (36-55),West District,8,2
+PAT-1282,58,Senior (56+),Riverside,3,0
+PAT-1283,76,Senior (56+),West District,6,1
+PAT-1284,20,Young Adult (18-35),Central Valley,1,1
+PAT-1285,87,Senior (56+),Suburbia,3,0
+PAT-1286,5,Pediatric (0-17),Central Valley,4,1
+PAT-1287,41,Middle-Aged (36-55),North District,9,2
+PAT-1288,56,Senior (56+),South District,3,2
+PAT-1289,50,Middle-Aged (36-55),Metro Core,2,1
+PAT-1290,32,Young Adult (18-35),Central Valley,6,1
+PAT-1291,40,Middle-Aged (36-55),North District,2,0
+PAT-1292,35,Young Adult (18-35),North District,3,1
+PAT-1293,33,Young Adult (18-35),Riverside,2,1
+PAT-1294,61,Senior (56+),East District,3,0
+PAT-1295,52,Middle-Aged (36-55),Central Valley,2,0
+PAT-1296,31,Young Adult (18-35),East District,6,2
+PAT-1297,62,Senior (56+),Suburbia,3,2
+PAT-1298,51,Middle-Aged (36-55),Metro Core,3,0
+PAT-1299,61,Senior (56+),North District,4,0
+PAT-1300,57,Senior (56+),South District,3,1
+PAT-1301,28,Young Adult (18-35),South District,4,1
+PAT-1302,33,Young Adult (18-35),East District,1,0
+PAT-1303,59,Senior (56+),North District,4,1
+PAT-1304,57,Senior (56+),Riverside,1,0
+PAT-1305,44,Middle-Aged (36-55),East District,1,0
+PAT-1306,47,Middle-Aged (36-55),Metro Core,1,0
+PAT-1307,70,Senior (56+),East District,3,1
+PAT-1308,33,Young Adult (18-35),North District,2,2
+PAT-1309,55,Middle-Aged (36-55),Central Valley,2,0
+PAT-1310,40,Middle-Aged (36-55),Riverside,3,1
+PAT-1311,40,Middle-Aged (36-55),North District,5,1
+PAT-1312,66,Senior (56+),Riverside,2,0
+PAT-1313,61,Senior (56+),West District,2,2
+PAT-1314,61,Senior (56+),West District,1,0
+PAT-1315,71,Senior (56+),South District,3,0
+PAT-1316,45,Middle-Aged (36-55),Riverside,5,2
+PAT-1317,58,Senior (56+),Metro Core,3,1
+PAT-1318,38,Middle-Aged (36-55),East District,3,2
+PAT-1319,51,Middle-Aged (36-55),West District,2,0
+PAT-1320,42,Middle-Aged (36-55),East District,3,0
+PAT-1321,46,Middle-Aged (36-55),East District,2,0
+PAT-1322,56,Senior (56+),Metro Core,3,0
+PAT-1323,28,Young Adult (18-35),North District,2,0
+PAT-1324,86,Senior (56+),East District,4,0
+PAT-1325,24,Young Adult (18-35),Riverside,3,0
+PAT-1326,20,Young Adult (18-35),Metro Core,6,4
+PAT-1327,68,Senior (56+),West District,6,2
+PAT-1328,60,Senior (56+),Central Valley,0,0
+PAT-1329,57,Senior (56+),East District,2,0
+PAT-1330,57,Senior (56+),South District,3,1
+PAT-1331,44,Middle-Aged (36-55),Metro Core,7,3
+PAT-1332,27,Young Adult (18-35),North District,4,2
+PAT-1333,46,Middle-Aged (36-55),Suburbia,2,0
+PAT-1334,31,Young Adult (18-35),West District,2,1
+PAT-1335,64,Senior (56+),West District,4,2
+PAT-1336,42,Middle-Aged (36-55),Suburbia,2,1
+PAT-1337,28,Young Adult (18-35),Riverside,5,1
+PAT-1338,38,Middle-Aged (36-55),Central Valley,1,0
+PAT-1339,53,Middle-Aged (36-55),West District,3,0
+PAT-1340,33,Young Adult (18-35),West District,4,0
+PAT-1341,28,Young Adult (18-35),North District,5,2
+PAT-1342,49,Middle-Aged (36-55),West District,4,2
+PAT-1343,49,Middle-Aged (36-55),Metro Core,4,1
+PAT-1344,34,Young Adult (18-35),Riverside,2,0
+PAT-1345,35,Young Adult (18-35),Central Valley,5,1
+PAT-1346,49,Middle-Aged (36-55),South District,5,3
+PAT-1347,16,Pediatric (0-17),Central Valley,3,0
+PAT-1348,16,Pediatric (0-17),Riverside,2,2
+PAT-1349,30,Young Adult (18-35),Metro Core,2,0
+PAT-1350,40,Middle-Aged (36-55),Riverside,6,1
+PAT-1351,51,Middle-Aged (36-55),North District,5,3
+PAT-1352,74,Senior (56+),South District,3,0
+PAT-1353,62,Senior (56+),Central Valley,1,0
+PAT-1354,41,Middle-Aged (36-55),East District,1,0
+PAT-1355,44,Middle-Aged (36-55),Central Valley,1,0
+PAT-1356,24,Young Adult (18-35),North District,2,0
+PAT-1357,44,Middle-Aged (36-55),South District,2,0
+PAT-1358,39,Middle-Aged (36-55),Metro Core,2,0
+PAT-1359,51,Middle-Aged (36-55),Riverside,8,2
+PAT-1360,28,Young Adult (18-35),Riverside,1,0
+PAT-1361,55,Middle-Aged (36-55),Metro Core,4,2
+PAT-1362,75,Senior (56+),South District,1,0
+PAT-1363,42,Middle-Aged (36-55),Metro Core,1,0
+PAT-1364,53,Middle-Aged (36-55),West District,3,0
+PAT-1365,58,Senior (56+),Central Valley,2,0
+PAT-1366,36,Middle-Aged (36-55),North District,2,0
+PAT-1367,49,Middle-Aged (36-55),Metro Core,3,0
+PAT-1368,45,Middle-Aged (36-55),North District,5,0
+PAT-1369,46,Middle-Aged (36-55),West District,1,0
+PAT-1370,29,Young Adult (18-35),Riverside,4,1
+PAT-1371,45,Middle-Aged (36-55),Metro Core,3,2
+PAT-1372,54,Middle-Aged (36-55),South District,1,1
+PAT-1373,74,Senior (56+),Riverside,4,1
+PAT-1374,64,Senior (56+),Riverside,4,0
+PAT-1375,88,Senior (56+),South District,1,0
+PAT-1376,29,Young Adult (18-35),Central Valley,0,0
+PAT-1377,62,Senior (56+),Central Valley,1,1
+PAT-1378,48,Middle-Aged (36-55),Metro Core,1,0
+PAT-1379,88,Senior (56+),Riverside,3,0
+PAT-1380,28,Young Adult (18-35),Metro Core,2,0
+PAT-1381,28,Young Adult (18-35),Central Valley,1,0
+PAT-1382,33,Young Adult (18-35),East District,2,1
+PAT-1383,2,Pediatric (0-17),West District,2,0
+PAT-1384,34,Young Adult (18-35),Metro Core,1,1
+PAT-1385,29,Young Adult (18-35),Metro Core,3,0
+PAT-1386,48,Middle-Aged (36-55),East District,3,1
+PAT-1387,51,Middle-Aged (36-55),Central Valley,1,1
+PAT-1388,82,Senior (56+),Metro Core,1,1
+PAT-1389,64,Senior (56+),North District,2,0
+PAT-1390,33,Young Adult (18-35),Central Valley,2,0
+PAT-1391,27,Young Adult (18-35),Central Valley,2,0
+PAT-1392,54,Middle-Aged (36-55),West District,2,1
+PAT-1393,18,Young Adult (18-35),Metro Core,3,1
+PAT-1394,81,Senior (56+),Riverside,3,1
+PAT-1395,68,Senior (56+),Suburbia,2,1
+PAT-1396,35,Young Adult (18-35),Suburbia,5,1
+PAT-1397,10,Pediatric (0-17),Suburbia,1,0
+PAT-1398,72,Senior (56+),West District,1,1
+PAT-1399,42,Middle-Aged (36-55),Suburbia,3,1
+PAT-1400,69,Senior (56+),East District,3,1
+PAT-1401,13,Pediatric (0-17),South District,5,2
+PAT-1402,33,Young Adult (18-35),Central Valley,4,2
+PAT-1403,45,Middle-Aged (36-55),Riverside,7,1
+PAT-1404,45,Middle-Aged (36-55),South District,0,0
+PAT-1405,35,Young Adult (18-35),West District,3,2
+PAT-1406,57,Senior (56+),Central Valley,5,0
+PAT-1407,23,Young Adult (18-35),West District,5,0
+PAT-1408,42,Middle-Aged (36-55),West District,2,1
+PAT-1409,47,Middle-Aged (36-55),East District,0,0
+PAT-1410,55,Middle-Aged (36-55),North District,3,0
+PAT-1411,59,Senior (56+),North District,6,0
+PAT-1412,22,Young Adult (18-35),West District,1,0
+PAT-1413,14,Pediatric (0-17),Suburbia,4,2
+PAT-1414,70,Senior (56+),South District,2,0
+PAT-1415,51,Middle-Aged (36-55),Suburbia,4,0
+PAT-1416,30,Young Adult (18-35),Metro Core,0,0
+PAT-1417,76,Senior (56+),West District,7,1
+PAT-1418,47,Middle-Aged (36-55),Metro Core,6,1
+PAT-1419,68,Senior (56+),Suburbia,6,1
+PAT-1420,46,Middle-Aged (36-55),Metro Core,2,1
+PAT-1421,86,Senior (56+),West District,4,1
+PAT-1422,80,Senior (56+),East District,3,0
+PAT-1423,40,Middle-Aged (36-55),North District,3,1
+PAT-1424,64,Senior (56+),South District,6,0
+PAT-1425,57,Senior (56+),Metro Core,0,0
+PAT-1426,72,Senior (56+),West District,2,0
+PAT-1427,25,Young Adult (18-35),East District,3,0
+PAT-1428,58,Senior (56+),Suburbia,4,2
+PAT-1429,66,Senior (56+),North District,0,0
+PAT-1430,9,Pediatric (0-17),West District,3,0
+PAT-1431,21,Young Adult (18-35),South District,2,1
+PAT-1432,4,Pediatric (0-17),Suburbia,2,0
+PAT-1433,39,Middle-Aged (36-55),East District,4,0
+PAT-1434,59,Senior (56+),Suburbia,3,2
+PAT-1435,75,Senior (56+),Riverside,1,0
+PAT-1436,46,Middle-Aged (36-55),Suburbia,4,1
+PAT-1437,77,Senior (56+),Metro Core,1,0
+PAT-1438,17,Pediatric (0-17),Suburbia,2,1
+PAT-1439,10,Pediatric (0-17),East District,4,2
+PAT-1440,43,Middle-Aged (36-55),Suburbia,2,1
+PAT-1441,52,Middle-Aged (36-55),Suburbia,2,0
+PAT-1442,44,Middle-Aged (36-55),Central Valley,5,1
+PAT-1443,3,Pediatric (0-17),West District,3,2
+PAT-1444,43,Middle-Aged (36-55),Central Valley,6,2
+PAT-1445,18,Young Adult (18-35),Suburbia,2,0
+PAT-1446,58,Senior (56+),West District,1,1
+PAT-1447,52,Middle-Aged (36-55),Central Valley,6,2
+PAT-1448,26,Young Adult (18-35),Suburbia,5,0
+PAT-1449,34,Young Adult (18-35),South District,4,2
+PAT-1450,23,Young Adult (18-35),Central Valley,1,0
+PAT-1451,43,Middle-Aged (36-55),West District,2,1
+PAT-1452,64,Senior (56+),Central Valley,5,1
+PAT-1453,25,Young Adult (18-35),Riverside,3,0
+PAT-1454,55,Middle-Aged (36-55),Riverside,5,2
+PAT-1455,34,Young Adult (18-35),South District,2,0
+PAT-1456,29,Young Adult (18-35),East District,4,2
+PAT-1457,42,Middle-Aged (36-55),East District,2,1
+PAT-1458,24,Young Adult (18-35),West District,2,0
+PAT-1459,33,Young Adult (18-35),Metro Core,2,1
+PAT-1460,21,Young Adult (18-35),East District,5,3
+PAT-1461,84,Senior (56+),West District,1,0
+PAT-1462,45,Middle-Aged (36-55),South District,4,0
+PAT-1463,31,Young Adult (18-35),Metro Core,2,0
+PAT-1464,49,Middle-Aged (36-55),Metro Core,3,0
+PAT-1465,42,Middle-Aged (36-55),Riverside,5,4
+PAT-1466,40,Middle-Aged (36-55),Suburbia,1,0
+PAT-1467,57,Senior (56+),Metro Core,8,2
+PAT-1468,60,Senior (56+),North District,0,0
+PAT-1469,34,Young Adult (18-35),West District,2,0
+PAT-1470,33,Young Adult (18-35),Metro Core,0,0
+PAT-1471,39,Middle-Aged (36-55),Metro Core,4,1
+PAT-1472,1,Pediatric (0-17),North District,1,0
+PAT-1473,14,Pediatric (0-17),Metro Core,1,0
+PAT-1474,72,Senior (56+),Suburbia,3,0
+PAT-1475,77,Senior (56+),North District,5,0
+PAT-1476,40,Middle-Aged (36-55),Riverside,2,1
+PAT-1477,56,Senior (56+),Central Valley,5,0
+PAT-1478,51,Middle-Aged (36-55),Metro Core,0,0
+PAT-1479,88,Senior (56+),Metro Core,8,0
+PAT-1480,67,Senior (56+),West District,4,1
+PAT-1481,42,Middle-Aged (36-55),Suburbia,5,1
+PAT-1482,25,Young Adult (18-35),West District,7,1
+PAT-1483,12,Pediatric (0-17),Central Valley,1,1
+PAT-1484,49,Middle-Aged (36-55),Metro Core,5,2
+PAT-1485,29,Young Adult (18-35),Suburbia,4,1
+PAT-1486,16,Pediatric (0-17),North District,1,0
+PAT-1487,32,Young Adult (18-35),Metro Core,2,0
+PAT-1488,23,Young Adult (18-35),Riverside,2,0
+PAT-1489,78,Senior (56+),Metro Core,2,1
+PAT-1490,62,Senior (56+),East District,2,0
+PAT-1491,44,Middle-Aged (36-55),Suburbia,6,2
+PAT-1492,74,Senior (56+),East District,1,1
+PAT-1493,46,Middle-Aged (36-55),North District,4,2
+PAT-1494,27,Young Adult (18-35),Metro Core,2,1
+PAT-1495,75,Senior (56+),North District,3,1
+PAT-1496,55,Middle-Aged (36-55),South District,4,2
+PAT-1497,24,Young Adult (18-35),Metro Core,4,1
+PAT-1498,41,Middle-Aged (36-55),East District,3,1
+PAT-1499,27,Young Adult (18-35),Suburbia,1,0
+PAT-1500,17,Pediatric (0-17),East District,2,0
+PAT-1501,63,Senior (56+),North District,2,1
+PAT-1502,83,Senior (56+),Central Valley,4,0
+PAT-1503,17,Pediatric (0-17),Metro Core,4,0
+PAT-1504,56,Senior (56+),Riverside,0,0
+PAT-1505,31,Young Adult (18-35),West District,3,0
+PAT-1506,35,Young Adult (18-35),Suburbia,1,0
+PAT-1507,33,Young Adult (18-35),Riverside,2,1
+PAT-1508,27,Young Adult (18-35),Riverside,3,0
+PAT-1509,45,Middle-Aged (36-55),Metro Core,0,0
+PAT-1510,28,Young Adult (18-35),Central Valley,7,0
+PAT-1511,50,Middle-Aged (36-55),Metro Core,2,1
+PAT-1512,43,Middle-Aged (36-55),Central Valley,1,0
+PAT-1513,40,Middle-Aged (36-55),South District,1,0
+PAT-1514,26,Young Adult (18-35),Suburbia,2,0
+PAT-1515,33,Young Adult (18-35),North District,4,1
+PAT-1516,60,Senior (56+),North District,5,3
+PAT-1517,55,Middle-Aged (36-55),Riverside,4,1
+PAT-1518,25,Young Adult (18-35),West District,1,1
+PAT-1519,46,Middle-Aged (36-55),South District,3,1
+PAT-1520,60,Senior (56+),North District,0,0
+PAT-1521,11,Pediatric (0-17),North District,3,3
+PAT-1522,55,Middle-Aged (36-55),West District,4,1
+PAT-1523,31,Young Adult (18-35),West District,3,1
+PAT-1524,56,Senior (56+),North District,2,2
+PAT-1525,29,Young Adult (18-35),East District,3,1
+PAT-1526,8,Pediatric (0-17),West District,4,1
+PAT-1527,12,Pediatric (0-17),East District,3,0
+PAT-1528,45,Middle-Aged (36-55),Suburbia,2,2
+PAT-1529,50,Middle-Aged (36-55),South District,3,0
+PAT-1530,26,Young Adult (18-35),West District,2,0
+PAT-1531,57,Senior (56+),Suburbia,2,0
+PAT-1532,11,Pediatric (0-17),Central Valley,8,3
+PAT-1533,43,Middle-Aged (36-55),Riverside,2,0
+PAT-1534,20,Young Adult (18-35),East District,4,1
+PAT-1535,31,Young Adult (18-35),South District,4,0
+PAT-1536,45,Middle-Aged (36-55),East District,4,3
+PAT-1537,27,Young Adult (18-35),Central Valley,1,0
+PAT-1538,37,Middle-Aged (36-55),South District,2,0
+PAT-1539,65,Senior (56+),North District,2,0
+PAT-1540,33,Young Adult (18-35),Central Valley,6,1
+PAT-1541,61,Senior (56+),Metro Core,3,0
+PAT-1542,22,Young Adult (18-35),Metro Core,2,0
+PAT-1543,55,Middle-Aged (36-55),West District,5,0
+PAT-1544,73,Senior (56+),South District,1,0
+PAT-1545,1,Pediatric (0-17),West District,3,2
+PAT-1546,29,Young Adult (18-35),South District,3,1
+PAT-1547,56,Senior (56+),Central Valley,1,0
+PAT-1548,40,Middle-Aged (36-55),South District,2,0
+PAT-1549,52,Middle-Aged (36-55),North District,4,1
+PAT-1550,32,Young Adult (18-35),Riverside,4,2
+PAT-1551,46,Middle-Aged (36-55),Metro Core,3,1
+PAT-1552,41,Middle-Aged (36-55),Riverside,5,0
+PAT-1553,68,Senior (56+),South District,2,1
+PAT-1554,50,Middle-Aged (36-55),Riverside,3,1
+PAT-1555,51,Middle-Aged (36-55),North District,3,0
+PAT-1556,36,Middle-Aged (36-55),Metro Core,4,0
+PAT-1557,35,Young Adult (18-35),Suburbia,2,1
+PAT-1558,36,Middle-Aged (36-55),South District,1,0
+PAT-1559,52,Middle-Aged (36-55),Metro Core,2,1
+PAT-1560,36,Middle-Aged (36-55),Riverside,3,0
+PAT-1561,50,Middle-Aged (36-55),Suburbia,6,5
+PAT-1562,86,Senior (56+),East District,2,0
+PAT-1563,62,Senior (56+),Metro Core,4,1
+PAT-1564,38,Middle-Aged (36-55),East District,1,0
+PAT-1565,69,Senior (56+),Central Valley,3,0
+PAT-1566,36,Middle-Aged (36-55),Suburbia,5,4
+PAT-1567,4,Pediatric (0-17),Suburbia,3,2
+PAT-1568,24,Young Adult (18-35),Metro Core,3,1
+PAT-1569,7,Pediatric (0-17),Central Valley,7,1
+PAT-1570,37,Middle-Aged (36-55),Riverside,5,0
+PAT-1571,45,Middle-Aged (36-55),West District,4,0
+PAT-1572,78,Senior (56+),South District,2,0
+PAT-1573,51,Middle-Aged (36-55),Central Valley,4,0
+PAT-1574,40,Middle-Aged (36-55),Suburbia,8,1
+PAT-1575,61,Senior (56+),West District,6,0
+PAT-1576,1,Pediatric (0-17),Suburbia,6,2
+PAT-1577,49,Middle-Aged (36-55),Metro Core,4,2
+PAT-1578,60,Senior (56+),Riverside,5,3
+PAT-1579,15,Pediatric (0-17),North District,1,0
+PAT-1580,67,Senior (56+),Suburbia,3,0
+PAT-1581,51,Middle-Aged (36-55),Riverside,1,0
+PAT-1582,36,Middle-Aged (36-55),East District,3,1
+PAT-1583,57,Senior (56+),Suburbia,2,0
+PAT-1584,88,Senior (56+),West District,3,0
+PAT-1585,48,Middle-Aged (36-55),Riverside,3,0
+PAT-1586,49,Middle-Aged (36-55),Central Valley,4,1
+PAT-1587,35,Young Adult (18-35),Riverside,1,0
+PAT-1588,28,Young Adult (18-35),Central Valley,6,1
+PAT-1589,61,Senior (56+),Central Valley,3,0
+PAT-1590,27,Young Adult (18-35),North District,5,2
+PAT-1591,46,Middle-Aged (36-55),West District,3,1
+PAT-1592,35,Young Adult (18-35),South District,3,2
+PAT-1593,54,Middle-Aged (36-55),West District,2,1
+PAT-1594,51,Middle-Aged (36-55),Metro Core,0,0
+PAT-1595,65,Senior (56+),Suburbia,4,1
+PAT-1596,34,Young Adult (18-35),West District,3,2
+PAT-1597,39,Middle-Aged (36-55),Suburbia,3,0
+PAT-1598,25,Young Adult (18-35),Suburbia,2,1
+PAT-1599,36,Middle-Aged (36-55),Suburbia,0,0
+PAT-1600,52,Middle-Aged (36-55),North District,0,0
+PAT-1601,60,Senior (56+),South District,3,1
+PAT-1602,26,Young Adult (18-35),Central Valley,3,1
+PAT-1603,62,Senior (56+),West District,3,2
+PAT-1604,72,Senior (56+),Metro Core,2,1
+PAT-1605,53,Middle-Aged (36-55),West District,6,0
+PAT-1606,82,Senior (56+),Central Valley,5,1
+PAT-1607,29,Young Adult (18-35),Riverside,2,0
+PAT-1608,20,Young Adult (18-35),Suburbia,6,1
+PAT-1609,9,Pediatric (0-17),Riverside,0,0
+PAT-1610,74,Senior (56+),Metro Core,4,0
+PAT-1611,58,Senior (56+),Riverside,2,0
+PAT-1612,43,Middle-Aged (36-55),Riverside,3,0
+PAT-1613,50,Middle-Aged (36-55),Suburbia,3,1
+PAT-1614,22,Young Adult (18-35),Central Valley,3,1
+PAT-1615,88,Senior (56+),Central Valley,5,2
+PAT-1616,47,Middle-Aged (36-55),Central Valley,1,0
+PAT-1617,47,Middle-Aged (36-55),West District,1,0
+PAT-1618,59,Senior (56+),South District,3,1
+PAT-1619,54,Middle-Aged (36-55),West District,6,4
+PAT-1620,49,Middle-Aged (36-55),Riverside,3,1
+PAT-1621,29,Young Adult (18-35),South District,6,1
+PAT-1622,54,Middle-Aged (36-55),East District,1,1
+PAT-1623,82,Senior (56+),West District,3,0
+PAT-1624,71,Senior (56+),West District,2,0
+PAT-1625,76,Senior (56+),Suburbia,3,0
+PAT-1626,34,Young Adult (18-35),Central Valley,4,1
+PAT-1627,25,Young Adult (18-35),Central Valley,2,1
+PAT-1628,42,Middle-Aged (36-55),South District,2,1
+PAT-1629,46,Middle-Aged (36-55),West District,4,1
+PAT-1630,66,Senior (56+),Central Valley,3,1
+PAT-1631,11,Pediatric (0-17),West District,2,2
+PAT-1632,75,Senior (56+),Riverside,8,0
+PAT-1633,41,Middle-Aged (36-55),East District,4,0
+PAT-1634,36,Middle-Aged (36-55),Central Valley,0,0
+PAT-1635,24,Young Adult (18-35),North District,1,1
+PAT-1636,11,Pediatric (0-17),East District,1,1
+PAT-1637,61,Senior (56+),Central Valley,2,1
+PAT-1638,46,Middle-Aged (36-55),North District,2,0
+PAT-1639,19,Young Adult (18-35),North District,1,1
+PAT-1640,19,Young Adult (18-35),Central Valley,3,0
+PAT-1641,38,Middle-Aged (36-55),East District,1,0
+PAT-1642,78,Senior (56+),Suburbia,3,1
+PAT-1643,39,Middle-Aged (36-55),South District,4,2
+PAT-1644,14,Pediatric (0-17),North District,6,0
+PAT-1645,40,Middle-Aged (36-55),Central Valley,3,0
+PAT-1646,39,Middle-Aged (36-55),Suburbia,3,2
+PAT-1647,1,Pediatric (0-17),Suburbia,1,0
+PAT-1648,43,Middle-Aged (36-55),Suburbia,4,0
+PAT-1649,40,Middle-Aged (36-55),Riverside,1,1
+PAT-1650,58,Senior (56+),East District,1,1
+PAT-1651,81,Senior (56+),North District,3,1
+PAT-1652,67,Senior (56+),Central Valley,3,2
+PAT-1653,39,Middle-Aged (36-55),Suburbia,2,0
+PAT-1654,22,Young Adult (18-35),South District,4,2
+PAT-1655,88,Senior (56+),South District,4,0
+PAT-1656,46,Middle-Aged (36-55),Metro Core,2,0
+PAT-1657,45,Middle-Aged (36-55),Suburbia,3,1
+PAT-1658,44,Middle-Aged (36-55),South District,4,4
+PAT-1659,48,Middle-Aged (36-55),North District,2,0
+PAT-1660,42,Middle-Aged (36-55),East District,2,0
+PAT-1661,33,Young Adult (18-35),East District,2,0
+PAT-1662,34,Young Adult (18-35),Central Valley,1,0
+PAT-1663,44,Middle-Aged (36-55),South District,3,1
+PAT-1664,34,Young Adult (18-35),West District,1,0
+PAT-1665,30,Young Adult (18-35),South District,2,0
+PAT-1666,47,Middle-Aged (36-55),Metro Core,3,2
+PAT-1667,39,Middle-Aged (36-55),West District,3,0
+PAT-1668,75,Senior (56+),Metro Core,4,1
+PAT-1669,1,Pediatric (0-17),Suburbia,2,0
+PAT-1670,66,Senior (56+),Suburbia,5,0
+PAT-1671,69,Senior (56+),Central Valley,7,0
+PAT-1672,3,Pediatric (0-17),Metro Core,4,1
+PAT-1673,38,Middle-Aged (36-55),Central Valley,3,1
+PAT-1674,37,Middle-Aged (36-55),North District,4,2
+PAT-1675,16,Pediatric (0-17),South District,2,1
+PAT-1676,29,Young Adult (18-35),West District,1,0
+PAT-1677,22,Young Adult (18-35),West District,1,0
+PAT-1678,80,Senior (56+),Central Valley,7,1
+PAT-1679,63,Senior (56+),South District,8,2
+PAT-1680,70,Senior (56+),East District,3,1
+PAT-1681,59,Senior (56+),West District,3,0
+PAT-1682,22,Young Adult (18-35),East District,5,0
+PAT-1683,34,Young Adult (18-35),South District,6,3
+PAT-1684,54,Middle-Aged (36-55),East District,1,1
+PAT-1685,20,Young Adult (18-35),North District,2,1
+PAT-1686,59,Senior (56+),Metro Core,1,0
+PAT-1687,40,Middle-Aged (36-55),Suburbia,6,4
+PAT-1688,37,Middle-Aged (36-55),Suburbia,2,1
+PAT-1689,59,Senior (56+),Central Valley,2,0
+PAT-1690,53,Middle-Aged (36-55),North District,3,1
+PAT-1691,37,Middle-Aged (36-55),West District,4,1
+PAT-1692,68,Senior (56+),Central Valley,2,1
+PAT-1693,23,Young Adult (18-35),Central Valley,0,0
+PAT-1694,57,Senior (56+),Suburbia,3,1
+PAT-1695,56,Senior (56+),South District,2,0
+PAT-1696,38,Middle-Aged (36-55),West District,3,0
+PAT-1697,51,Middle-Aged (36-55),Central Valley,6,0
+PAT-1698,19,Young Adult (18-35),West District,2,0
+PAT-1699,63,Senior (56+),Metro Core,1,1
+PAT-1700,41,Middle-Aged (36-55),South District,2,0
+PAT-1701,34,Young Adult (18-35),West District,3,0
+PAT-1702,65,Senior (56+),East District,3,0
+PAT-1703,30,Young Adult (18-35),Central Valley,1,1
+PAT-1704,16,Pediatric (0-17),East District,1,0
+PAT-1705,13,Pediatric (0-17),South District,1,0
+PAT-1706,57,Senior (56+),North District,4,0
+PAT-1707,19,Young Adult (18-35),East District,3,1
+PAT-1708,80,Senior (56+),Central Valley,5,3
+PAT-1709,3,Pediatric (0-17),Central Valley,1,1
+PAT-1710,78,Senior (56+),Suburbia,1,0
+PAT-1711,49,Middle-Aged (36-55),South District,2,0
+PAT-1712,43,Middle-Aged (36-55),Suburbia,6,2
+PAT-1713,34,Young Adult (18-35),Central Valley,7,3
+PAT-1714,52,Middle-Aged (36-55),Metro Core,2,0
+PAT-1715,44,Middle-Aged (36-55),Central Valley,3,1
+PAT-1716,67,Senior (56+),Suburbia,3,1
+PAT-1717,47,Middle-Aged (36-55),Suburbia,2,1
+PAT-1718,48,Middle-Aged (36-55),South District,1,0
+PAT-1719,37,Middle-Aged (36-55),North District,2,1
+PAT-1720,43,Middle-Aged (36-55),Metro Core,5,2
+PAT-1721,51,Middle-Aged (36-55),Riverside,1,1
+PAT-1722,10,Pediatric (0-17),Central Valley,6,1
+PAT-1723,18,Young Adult (18-35),North District,5,2
+PAT-1724,59,Senior (56+),South District,7,2
+PAT-1725,48,Middle-Aged (36-55),West District,7,1
+PAT-1726,41,Middle-Aged (36-55),North District,2,0
+PAT-1727,45,Middle-Aged (36-55),Central Valley,3,1
+PAT-1728,51,Middle-Aged (36-55),North District,3,0
+PAT-1729,34,Young Adult (18-35),East District,0,0
+PAT-1730,29,Young Adult (18-35),Suburbia,4,1
+PAT-1731,48,Middle-Aged (36-55),Suburbia,5,1
+PAT-1732,25,Young Adult (18-35),Central Valley,3,1
+PAT-1733,53,Middle-Aged (36-55),East District,3,1
+PAT-1734,10,Pediatric (0-17),Metro Core,4,0
+PAT-1735,65,Senior (56+),Suburbia,2,0
+PAT-1736,54,Middle-Aged (36-55),South District,3,0
+PAT-1737,50,Middle-Aged (36-55),Suburbia,0,0
+PAT-1738,64,Senior (56+),Riverside,2,0
+PAT-1739,78,Senior (56+),Metro Core,4,2
+PAT-1740,65,Senior (56+),Riverside,4,0
+PAT-1741,8,Pediatric (0-17),Riverside,3,1
+PAT-1742,19,Young Adult (18-35),South District,5,1
+PAT-1743,32,Young Adult (18-35),East District,1,0
+PAT-1744,45,Middle-Aged (36-55),Riverside,3,0
+PAT-1745,55,Middle-Aged (36-55),Metro Core,2,0
+PAT-1746,30,Young Adult (18-35),Suburbia,3,0
+PAT-1747,48,Middle-Aged (36-55),Central Valley,1,0
+PAT-1748,29,Young Adult (18-35),Metro Core,2,0
+PAT-1749,32,Young Adult (18-35),North District,2,0
+PAT-1750,16,Pediatric (0-17),Suburbia,5,0
+PAT-1751,26,Young Adult (18-35),South District,0,0
+PAT-1752,17,Pediatric (0-17),Riverside,3,2
+PAT-1753,25,Young Adult (18-35),Central Valley,4,0
+PAT-1754,66,Senior (56+),Riverside,3,2
+PAT-1755,26,Young Adult (18-35),South District,3,1
+PAT-1756,88,Senior (56+),Metro Core,3,1
+PAT-1757,54,Middle-Aged (36-55),North District,3,1
+PAT-1758,48,Middle-Aged (36-55),Suburbia,2,0
+PAT-1759,27,Young Adult (18-35),Metro Core,1,1
+PAT-1760,59,Senior (56+),North District,5,2
+PAT-1761,33,Young Adult (18-35),West District,5,3
+PAT-1762,47,Middle-Aged (36-55),Riverside,2,0
+PAT-1763,88,Senior (56+),Suburbia,2,0
+PAT-1764,43,Middle-Aged (36-55),Suburbia,2,0
+PAT-1765,67,Senior (56+),North District,3,1
+PAT-1766,30,Young Adult (18-35),West District,3,1
+PAT-1767,44,Middle-Aged (36-55),Central Valley,4,1
+PAT-1768,80,Senior (56+),East District,3,3
+PAT-1769,32,Young Adult (18-35),Central Valley,3,0
+PAT-1770,81,Senior (56+),Suburbia,2,0
+PAT-1771,59,Senior (56+),Suburbia,1,0
+PAT-1772,33,Young Adult (18-35),South District,4,1
+PAT-1773,57,Senior (56+),North District,1,0
+PAT-1774,64,Senior (56+),West District,3,0
+PAT-1775,57,Senior (56+),East District,1,0
+PAT-1776,13,Pediatric (0-17),Central Valley,5,1
+PAT-1777,30,Young Adult (18-35),North District,1,1
+PAT-1778,40,Middle-Aged (36-55),Metro Core,2,1
+PAT-1779,43,Middle-Aged (36-55),South District,1,0
+PAT-1780,57,Senior (56+),West District,6,0
+PAT-1781,48,Middle-Aged (36-55),South District,2,1
+PAT-1782,18,Young Adult (18-35),Suburbia,7,1
+PAT-1783,52,Middle-Aged (36-55),South District,3,0
+PAT-1784,57,Senior (56+),East District,4,1
+PAT-1785,56,Senior (56+),Suburbia,2,0
+PAT-1786,66,Senior (56+),Central Valley,2,1
+PAT-1787,61,Senior (56+),Central Valley,2,0
+PAT-1788,54,Middle-Aged (36-55),Metro Core,5,1
+PAT-1789,43,Middle-Aged (36-55),Suburbia,1,0
+PAT-1790,11,Pediatric (0-17),Suburbia,2,0
+PAT-1791,53,Middle-Aged (36-55),West District,4,0
+PAT-1792,49,Middle-Aged (36-55),Suburbia,0,0
+PAT-1793,50,Middle-Aged (36-55),East District,1,0
+PAT-1794,19,Young Adult (18-35),Metro Core,3,0
+PAT-1795,23,Young Adult (18-35),West District,8,4
+PAT-1796,66,Senior (56+),East District,5,0
+PAT-1797,44,Middle-Aged (36-55),South District,1,1
+PAT-1798,58,Senior (56+),Central Valley,6,0
+PAT-1799,45,Middle-Aged (36-55),Metro Core,6,1
+PAT-1800,45,Middle-Aged (36-55),Riverside,4,2
+PAT-1801,63,Senior (56+),Central Valley,5,4
+PAT-1802,34,Young Adult (18-35),North District,3,1
+PAT-1803,46,Middle-Aged (36-55),Central Valley,2,2
+PAT-1804,35,Young Adult (18-35),Central Valley,1,0
+PAT-1805,36,Middle-Aged (36-55),Suburbia,4,0
+PAT-1806,38,Middle-Aged (36-55),East District,4,0
+PAT-1807,49,Middle-Aged (36-55),Suburbia,1,1
+PAT-1808,35,Young Adult (18-35),Suburbia,2,0
+PAT-1809,70,Senior (56+),Riverside,2,0
+PAT-1810,27,Young Adult (18-35),Riverside,3,2
+PAT-1811,41,Middle-Aged (36-55),Metro Core,1,1
+PAT-1812,36,Middle-Aged (36-55),Suburbia,5,0
+PAT-1813,73,Senior (56+),Riverside,4,0
+PAT-1814,48,Middle-Aged (36-55),West District,4,0
+PAT-1815,65,Senior (56+),West District,7,2
+PAT-1816,15,Pediatric (0-17),Metro Core,6,1
+PAT-1817,50,Middle-Aged (36-55),West District,3,0
+PAT-1818,62,Senior (56+),Metro Core,6,1
+PAT-1819,46,Middle-Aged (36-55),North District,2,0
+PAT-1820,66,Senior (56+),Riverside,2,1
+PAT-1821,34,Young Adult (18-35),Suburbia,5,2
+PAT-1822,73,Senior (56+),Metro Core,4,0
+PAT-1823,88,Senior (56+),Metro Core,3,2
+PAT-1824,37,Middle-Aged (36-55),East District,2,0
+PAT-1825,36,Middle-Aged (36-55),Suburbia,5,0
+PAT-1826,74,Senior (56+),North District,7,2
+PAT-1827,76,Senior (56+),East District,4,2
+PAT-1828,34,Young Adult (18-35),Riverside,7,1
+PAT-1829,36,Middle-Aged (36-55),South District,5,1
+PAT-1830,39,Middle-Aged (36-55),Suburbia,4,0
+PAT-1831,18,Young Adult (18-35),South District,7,1
+PAT-1832,26,Young Adult (18-35),Suburbia,4,1
+PAT-1833,24,Young Adult (18-35),North District,5,3
+PAT-1834,29,Young Adult (18-35),East District,2,0
+PAT-1835,44,Middle-Aged (36-55),Metro Core,1,0
+PAT-1836,49,Middle-Aged (36-55),East District,3,1
+PAT-1837,76,Senior (56+),South District,3,2
+PAT-1838,25,Young Adult (18-35),Suburbia,3,1
+PAT-1839,64,Senior (56+),Central Valley,2,1
+PAT-1840,40,Middle-Aged (36-55),Riverside,4,1
+PAT-1841,44,Middle-Aged (36-55),Metro Core,2,0
+PAT-1842,58,Senior (56+),South District,4,2
+PAT-1843,22,Young Adult (18-35),Riverside,5,2
+PAT-1844,52,Middle-Aged (36-55),Metro Core,4,0
+PAT-1845,48,Middle-Aged (36-55),Riverside,6,1
+PAT-1846,54,Middle-Aged (36-55),Suburbia,7,1
+PAT-1847,50,Middle-Aged (36-55),North District,3,3
+PAT-1848,88,Senior (56+),South District,4,1
+PAT-1849,32,Young Adult (18-35),West District,2,1
+PAT-1850,34,Young Adult (18-35),Central Valley,1,1
+PAT-1851,32,Young Adult (18-35),West District,1,0
+PAT-1852,33,Young Adult (18-35),South District,4,1
+PAT-1853,32,Young Adult (18-35),Metro Core,0,0
+PAT-1854,68,Senior (56+),South District,3,0
+PAT-1855,73,Senior (56+),South District,3,0
+PAT-1856,33,Young Adult (18-35),Suburbia,3,1
+PAT-1857,28,Young Adult (18-35),East District,6,1
+PAT-1858,54,Middle-Aged (36-55),Central Valley,3,1
+PAT-1859,33,Young Adult (18-35),North District,1,0
+PAT-1860,57,Senior (56+),North District,5,2
+PAT-1861,49,Middle-Aged (36-55),Riverside,1,1
+PAT-1862,14,Pediatric (0-17),North District,3,0
+PAT-1863,75,Senior (56+),Central Valley,3,0
+PAT-1864,80,Senior (56+),Riverside,2,0
+PAT-1865,32,Young Adult (18-35),Riverside,7,2
+PAT-1866,37,Middle-Aged (36-55),Metro Core,2,1
+PAT-1867,50,Middle-Aged (36-55),East District,4,3
+PAT-1868,51,Middle-Aged (36-55),West District,2,0
+PAT-1869,58,Senior (56+),Metro Core,7,0
+PAT-1870,85,Senior (56+),East District,5,3
+PAT-1871,41,Middle-Aged (36-55),East District,4,0
+PAT-1872,29,Young Adult (18-35),East District,3,2
+PAT-1873,17,Pediatric (0-17),South District,2,0
+PAT-1874,30,Young Adult (18-35),Metro Core,0,0
+PAT-1875,44,Middle-Aged (36-55),West District,0,0
+PAT-1876,80,Senior (56+),Suburbia,1,1
+PAT-1877,34,Young Adult (18-35),East District,3,3
+PAT-1878,49,Middle-Aged (36-55),West District,6,1
+PAT-1879,44,Middle-Aged (36-55),Suburbia,1,0
+PAT-1880,68,Senior (56+),Central Valley,2,0
+PAT-1881,88,Senior (56+),Suburbia,1,0
+PAT-1882,34,Young Adult (18-35),Central Valley,3,0
+PAT-1883,35,Young Adult (18-35),North District,3,1
+PAT-1884,65,Senior (56+),Suburbia,5,1
+PAT-1885,58,Senior (56+),Central Valley,7,0
+PAT-1886,81,Senior (56+),East District,3,1
+PAT-1887,56,Senior (56+),South District,3,1
+PAT-1888,37,Middle-Aged (36-55),Suburbia,4,1
+PAT-1889,56,Senior (56+),Riverside,4,1
+PAT-1890,67,Senior (56+),Central Valley,3,0
+PAT-1891,61,Senior (56+),Metro Core,2,0
+PAT-1892,55,Middle-Aged (36-55),Central Valley,6,1
+PAT-1893,66,Senior (56+),Suburbia,3,0
+PAT-1894,68,Senior (56+),Central Valley,4,0
+PAT-1895,72,Senior (56+),West District,4,4
+PAT-1896,57,Senior (56+),Metro Core,4,1
+PAT-1897,41,Middle-Aged (36-55),Suburbia,3,1
+PAT-1898,47,Middle-Aged (36-55),South District,1,0
+PAT-1899,69,Senior (56+),West District,2,0
+PAT-1900,28,Young Adult (18-35),Metro Core,0,0
+PAT-1901,52,Middle-Aged (36-55),Riverside,5,0
+PAT-1902,37,Middle-Aged (36-55),Central Valley,2,0
+PAT-1903,45,Middle-Aged (36-55),Central Valley,2,0
+PAT-1904,70,Senior (56+),North District,3,1
+PAT-1905,48,Middle-Aged (36-55),Metro Core,3,1
+PAT-1906,45,Middle-Aged (36-55),Central Valley,5,2
+PAT-1907,17,Pediatric (0-17),North District,4,0
+PAT-1908,59,Senior (56+),North District,3,0
+PAT-1909,57,Senior (56+),Suburbia,3,1
+PAT-1910,88,Senior (56+),Central Valley,2,0
+PAT-1911,38,Middle-Aged (36-55),West District,1,0
+PAT-1912,49,Middle-Aged (36-55),Riverside,7,2
+PAT-1913,49,Middle-Aged (36-55),West District,0,0
+PAT-1914,76,Senior (56+),West District,4,1
+PAT-1915,43,Middle-Aged (36-55),Central Valley,1,0
+PAT-1916,50,Middle-Aged (36-55),East District,4,0
+PAT-1917,57,Senior (56+),South District,1,0
+PAT-1918,48,Middle-Aged (36-55),North District,2,0
+PAT-1919,36,Middle-Aged (36-55),Central Valley,2,2
+PAT-1920,48,Middle-Aged (36-55),Suburbia,5,0
+PAT-1921,66,Senior (56+),North District,3,0
+PAT-1922,24,Young Adult (18-35),Riverside,5,1
+PAT-1923,47,Middle-Aged (36-55),East District,5,2
+PAT-1924,30,Young Adult (18-35),South District,2,0
+PAT-1925,68,Senior (56+),Central Valley,1,0
+PAT-1926,14,Pediatric (0-17),Riverside,4,1
+PAT-1927,33,Young Adult (18-35),Metro Core,2,0
+PAT-1928,52,Middle-Aged (36-55),East District,3,1
+PAT-1929,76,Senior (56+),West District,2,0
+PAT-1930,43,Middle-Aged (36-55),East District,7,2
+PAT-1931,33,Young Adult (18-35),Riverside,4,4
+PAT-1932,82,Senior (56+),Central Valley,3,0
+PAT-1933,16,Pediatric (0-17),East District,1,1
+PAT-1934,1,Pediatric (0-17),Central Valley,3,2
+PAT-1935,53,Middle-Aged (36-55),Suburbia,5,0
+PAT-1936,34,Young Adult (18-35),Central Valley,6,2
+PAT-1937,24,Young Adult (18-35),Riverside,2,0
+PAT-1938,59,Senior (56+),South District,4,2
+PAT-1939,49,Middle-Aged (36-55),Suburbia,1,0
+PAT-1940,33,Young Adult (18-35),South District,5,2
+PAT-1941,19,Young Adult (18-35),East District,1,0
+PAT-1942,62,Senior (56+),West District,3,1
+PAT-1943,58,Senior (56+),Metro Core,5,1
+PAT-1944,43,Middle-Aged (36-55),Riverside,8,1
+PAT-1945,81,Senior (56+),South District,0,0
+PAT-1946,23,Young Adult (18-35),Metro Core,1,1
+PAT-1947,14,Pediatric (0-17),North District,3,1
+PAT-1948,31,Young Adult (18-35),Central Valley,3,0
+PAT-1949,44,Middle-Aged (36-55),South District,0,0
+PAT-1950,49,Middle-Aged (36-55),Suburbia,4,1
+PAT-1951,40,Middle-Aged (36-55),Riverside,2,0
+PAT-1952,52,Middle-Aged (36-55),Central Valley,3,1
+PAT-1953,19,Young Adult (18-35),Metro Core,3,0
+PAT-1954,73,Senior (56+),Riverside,4,1
+PAT-1955,43,Middle-Aged (36-55),South District,6,0
+PAT-1956,67,Senior (56+),West District,2,0
+PAT-1957,51,Middle-Aged (36-55),Suburbia,0,0
+PAT-1958,54,Middle-Aged (36-55),North District,5,0
+PAT-1959,56,Senior (56+),Riverside,3,1
+PAT-1960,53,Middle-Aged (36-55),West District,3,0
+PAT-1961,57,Senior (56+),South District,0,0
+PAT-1962,71,Senior (56+),Suburbia,1,1
+PAT-1963,48,Middle-Aged (36-55),Central Valley,4,2
+PAT-1964,59,Senior (56+),Metro Core,5,3
+PAT-1965,43,Middle-Aged (36-55),South District,3,1
+PAT-1966,73,Senior (56+),East District,2,0
+PAT-1967,31,Young Adult (18-35),North District,2,0
+PAT-1968,81,Senior (56+),North District,3,0
+PAT-1969,44,Middle-Aged (36-55),Central Valley,1,0
+PAT-1970,16,Pediatric (0-17),Suburbia,3,0
+PAT-1971,47,Middle-Aged (36-55),South District,3,1
+PAT-1972,31,Young Adult (18-35),South District,6,2
+PAT-1973,61,Senior (56+),West District,3,0
+PAT-1974,31,Young Adult (18-35),East District,4,1
+PAT-1975,36,Middle-Aged (36-55),Metro Core,5,1
+PAT-1976,7,Pediatric (0-17),Suburbia,2,0
+PAT-1977,35,Young Adult (18-35),Riverside,5,1
+PAT-1978,1,Pediatric (0-17),Metro Core,4,1
+PAT-1979,13,Pediatric (0-17),East District,4,3
+PAT-1980,60,Senior (56+),Metro Core,1,0
+PAT-1981,60,Senior (56+),South District,4,1
+PAT-1982,53,Middle-Aged (36-55),Suburbia,2,0
+PAT-1983,25,Young Adult (18-35),Metro Core,1,0
+PAT-1984,44,Middle-Aged (36-55),Central Valley,1,0
+PAT-1985,44,Middle-Aged (36-55),North District,6,5
+PAT-1986,21,Young Adult (18-35),Riverside,2,0
+PAT-1987,75,Senior (56+),West District,2,0
+PAT-1988,62,Senior (56+),Suburbia,3,1
+PAT-1989,40,Middle-Aged (36-55),Suburbia,1,0
+PAT-1990,45,Middle-Aged (36-55),West District,4,1
+PAT-1991,49,Middle-Aged (36-55),Riverside,1,1
+PAT-1992,4,Pediatric (0-17),South District,3,0
+PAT-1993,40,Middle-Aged (36-55),Riverside,4,1
+PAT-1994,31,Young Adult (18-35),Riverside,1,0
+PAT-1995,24,Young Adult (18-35),North District,1,0
+PAT-1996,39,Middle-Aged (36-55),Metro Core,2,1
+PAT-1997,80,Senior (56+),Central Valley,1,0
+PAT-1998,57,Senior (56+),West District,4,0
+PAT-1999,33,Young Adult (18-35),South District,3,1
+PAT-2000,56,Senior (56+),Suburbia,1,0
+PAT-2001,72,Senior (56+),South District,2,0
+PAT-2002,63,Senior (56+),West District,3,0
+PAT-2003,46,Middle-Aged (36-55),North District,6,3
+PAT-2004,32,Young Adult (18-35),North District,2,0
+PAT-2005,58,Senior (56+),Riverside,2,0
+PAT-2006,52,Middle-Aged (36-55),West District,4,3
+PAT-2007,62,Senior (56+),East District,6,1
+PAT-2008,57,Senior (56+),West District,2,0
+PAT-2009,65,Senior (56+),South District,1,0
+PAT-2010,34,Young Adult (18-35),West District,1,0
+PAT-2011,71,Senior (56+),West District,1,0
+PAT-2012,48,Middle-Aged (36-55),West District,2,0
+PAT-2013,86,Senior (56+),Riverside,1,0
+PAT-2014,31,Young Adult (18-35),East District,3,0
+PAT-2015,79,Senior (56+),North District,2,0
+PAT-2016,48,Middle-Aged (36-55),Central Valley,4,0
+PAT-2017,31,Young Adult (18-35),East District,2,0
+PAT-2018,35,Young Adult (18-35),East District,3,2
+PAT-2019,38,Middle-Aged (36-55),Central Valley,1,0
+PAT-2020,53,Middle-Aged (36-55),East District,2,0
+PAT-2021,55,Middle-Aged (36-55),South District,3,0
+PAT-2022,33,Young Adult (18-35),North District,3,1
+PAT-2023,44,Middle-Aged (36-55),East District,3,0
+PAT-2024,87,Senior (56+),North District,3,0
+PAT-2025,79,Senior (56+),Riverside,5,1
+PAT-2026,53,Middle-Aged (36-55),West District,3,0
+PAT-2027,45,Middle-Aged (36-55),Riverside,0,0
+PAT-2028,47,Middle-Aged (36-55),North District,1,0
+PAT-2029,57,Senior (56+),East District,6,0
+PAT-2030,24,Young Adult (18-35),Central Valley,5,4
+PAT-2031,39,Middle-Aged (36-55),North District,3,0
+PAT-2032,11,Pediatric (0-17),East District,1,0
+PAT-2033,52,Middle-Aged (36-55),Metro Core,5,0
+PAT-2034,57,Senior (56+),South District,3,0
+PAT-2035,35,Young Adult (18-35),South District,4,2
+PAT-2036,76,Senior (56+),Suburbia,2,0
+PAT-2037,20,Young Adult (18-35),Suburbia,4,1
+PAT-2038,15,Pediatric (0-17),Riverside,2,0
+PAT-2039,49,Middle-Aged (36-55),South District,4,0
+PAT-2040,65,Senior (56+),Suburbia,2,0
+PAT-2041,78,Senior (56+),West District,1,0
+PAT-2042,35,Young Adult (18-35),North District,1,0
+PAT-2043,66,Senior (56+),Central Valley,5,0
+PAT-2044,44,Middle-Aged (36-55),Suburbia,3,1
+PAT-2045,41,Middle-Aged (36-55),North District,1,0
+PAT-2046,62,Senior (56+),North District,3,0
+PAT-2047,58,Senior (56+),Suburbia,4,0
+PAT-2048,13,Pediatric (0-17),Metro Core,2,0
+PAT-2049,74,Senior (56+),Metro Core,1,0
+PAT-2050,72,Senior (56+),South District,5,2
+PAT-2051,32,Young Adult (18-35),Suburbia,1,0
+PAT-2052,52,Middle-Aged (36-55),Suburbia,3,0
+PAT-2053,54,Middle-Aged (36-55),South District,4,2
+PAT-2054,50,Middle-Aged (36-55),South District,1,0
+PAT-2055,33,Young Adult (18-35),Riverside,1,0
+PAT-2056,31,Young Adult (18-35),East District,2,1
+PAT-2057,44,Middle-Aged (36-55),South District,1,0
+PAT-2058,68,Senior (56+),East District,5,0
+PAT-2059,55,Middle-Aged (36-55),Central Valley,5,2
+PAT-2060,37,Middle-Aged (36-55),Riverside,1,0
+PAT-2061,60,Senior (56+),Metro Core,1,1
+PAT-2062,1,Pediatric (0-17),Central Valley,2,1
+PAT-2063,67,Senior (56+),Suburbia,4,1
+PAT-2064,10,Pediatric (0-17),Metro Core,3,0
+PAT-2065,37,Middle-Aged (36-55),South District,3,0
+PAT-2066,22,Young Adult (18-35),South District,2,1
+PAT-2067,19,Young Adult (18-35),West District,6,0
+PAT-2068,68,Senior (56+),Metro Core,2,1
+PAT-2069,35,Young Adult (18-35),Suburbia,1,0
+PAT-2070,51,Middle-Aged (36-55),West District,2,1
+PAT-2071,44,Middle-Aged (36-55),Metro Core,2,0
+PAT-2072,54,Middle-Aged (36-55),Riverside,5,1
+PAT-2073,46,Middle-Aged (36-55),Suburbia,3,3
+PAT-2074,19,Young Adult (18-35),Metro Core,1,1
+PAT-2075,64,Senior (56+),Metro Core,1,0
+PAT-2076,35,Young Adult (18-35),South District,2,2
+PAT-2077,13,Pediatric (0-17),Riverside,1,1
+PAT-2078,36,Middle-Aged (36-55),Metro Core,1,0
+PAT-2079,75,Senior (56+),Riverside,4,1
+PAT-2080,62,Senior (56+),Central Valley,3,0
+PAT-2081,38,Middle-Aged (36-55),Riverside,2,0
+PAT-2082,38,Middle-Aged (36-55),East District,0,0
+PAT-2083,38,Middle-Aged (36-55),Suburbia,3,0
+PAT-2084,86,Senior (56+),South District,2,0
+PAT-2085,52,Middle-Aged (36-55),South District,5,0
+PAT-2086,53,Middle-Aged (36-55),South District,1,0
+PAT-2087,65,Senior (56+),South District,3,0
+PAT-2088,49,Middle-Aged (36-55),Metro Core,4,2
+PAT-2089,39,Middle-Aged (36-55),South District,4,2
+PAT-2090,41,Middle-Aged (36-55),Riverside,3,0
+PAT-2091,43,Middle-Aged (36-55),East District,4,1
+PAT-2092,44,Middle-Aged (36-55),North District,4,1
+PAT-2093,59,Senior (56+),Riverside,6,2
+PAT-2094,46,Middle-Aged (36-55),South District,5,2
+PAT-2095,59,Senior (56+),Metro Core,2,0
+PAT-2096,43,Middle-Aged (36-55),Riverside,2,0
+PAT-2097,46,Middle-Aged (36-55),Metro Core,2,0
+PAT-2098,5,Pediatric (0-17),North District,0,0
+PAT-2099,63,Senior (56+),Central Valley,5,0
+PAT-2100,51,Middle-Aged (36-55),Central Valley,5,0
+PAT-2101,64,Senior (56+),Riverside,6,0
+PAT-2102,1,Pediatric (0-17),South District,4,0
+PAT-2103,86,Senior (56+),West District,1,0
+PAT-2104,42,Middle-Aged (36-55),East District,4,0
+PAT-2105,67,Senior (56+),Suburbia,2,0
+PAT-2106,24,Young Adult (18-35),West District,2,1
+PAT-2107,57,Senior (56+),South District,2,1
+PAT-2108,23,Young Adult (18-35),Riverside,6,1
+PAT-2109,32,Young Adult (18-35),Riverside,2,0
+PAT-2110,83,Senior (56+),South District,3,3
+PAT-2111,41,Middle-Aged (36-55),Central Valley,1,1
+PAT-2112,49,Middle-Aged (36-55),West District,2,1
+PAT-2113,62,Senior (56+),Metro Core,3,0
+PAT-2114,54,Middle-Aged (36-55),North District,3,0
+PAT-2115,48,Middle-Aged (36-55),Central Valley,7,2
+PAT-2116,52,Middle-Aged (36-55),North District,1,1
+PAT-2117,88,Senior (56+),East District,2,0
+PAT-2118,43,Middle-Aged (36-55),Central Valley,3,1
+PAT-2119,49,Middle-Aged (36-55),Central Valley,3,0
+PAT-2120,66,Senior (56+),Riverside,8,2
+PAT-2121,67,Senior (56+),Riverside,2,0
+PAT-2122,68,Senior (56+),North District,2,1
+PAT-2123,57,Senior (56+),East District,6,2
+PAT-2124,22,Young Adult (18-35),East District,2,0
+PAT-2125,77,Senior (56+),Metro Core,1,0
+PAT-2126,22,Young Adult (18-35),South District,4,0
+PAT-2127,51,Middle-Aged (36-55),East District,0,0
+PAT-2128,29,Young Adult (18-35),North District,2,0
+PAT-2129,43,Middle-Aged (36-55),South District,5,0
+PAT-2130,51,Middle-Aged (36-55),West District,6,1
+PAT-2131,51,Middle-Aged (36-55),Metro Core,4,1
+PAT-2132,53,Middle-Aged (36-55),Metro Core,1,1
+PAT-2133,77,Senior (56+),Suburbia,1,0
+PAT-2134,54,Middle-Aged (36-55),Riverside,6,1
+PAT-2135,40,Middle-Aged (36-55),East District,2,0
+PAT-2136,64,Senior (56+),Riverside,4,0
+PAT-2137,68,Senior (56+),Central Valley,2,0
+PAT-2138,20,Young Adult (18-35),Riverside,2,0
+PAT-2139,56,Senior (56+),South District,2,0
+PAT-2140,59,Senior (56+),North District,0,0
+PAT-2141,39,Middle-Aged (36-55),East District,1,0
+PAT-2142,72,Senior (56+),East District,3,0
+PAT-2143,41,Middle-Aged (36-55),North District,4,1
+PAT-2144,47,Middle-Aged (36-55),South District,6,4
+PAT-2145,41,Middle-Aged (36-55),Central Valley,1,0
+PAT-2146,45,Middle-Aged (36-55),Suburbia,3,0
+PAT-2147,23,Young Adult (18-35),Metro Core,4,1
+PAT-2148,16,Pediatric (0-17),Suburbia,2,1
+PAT-2149,76,Senior (56+),Suburbia,3,1
+PAT-2150,28,Young Adult (18-35),Metro Core,2,0
+PAT-2151,25,Young Adult (18-35),Central Valley,2,0
+PAT-2152,1,Pediatric (0-17),West District,3,0
+PAT-2153,32,Young Adult (18-35),South District,1,0
+PAT-2154,18,Young Adult (18-35),Riverside,3,3
+PAT-2155,77,Senior (56+),Metro Core,2,0
+PAT-2156,65,Senior (56+),South District,2,0
+PAT-2157,31,Young Adult (18-35),Central Valley,1,0
+PAT-2158,88,Senior (56+),Suburbia,3,1
+PAT-2159,64,Senior (56+),Central Valley,3,0
+PAT-2160,38,Middle-Aged (36-55),North District,1,0
+PAT-2161,1,Pediatric (0-17),West District,2,1
+PAT-2162,88,Senior (56+),Metro Core,3,0
+PAT-2163,17,Pediatric (0-17),North District,2,0
+PAT-2164,12,Pediatric (0-17),North District,3,0
+PAT-2165,65,Senior (56+),West District,3,0
+PAT-2166,88,Senior (56+),Central Valley,2,1
+PAT-2167,72,Senior (56+),West District,2,0
+PAT-2168,56,Senior (56+),East District,2,1
+PAT-2169,56,Senior (56+),Central Valley,6,0
+PAT-2170,62,Senior (56+),Central Valley,2,0
+PAT-2171,60,Senior (56+),Riverside,4,1
+PAT-2172,50,Middle-Aged (36-55),South District,5,1
+PAT-2173,47,Middle-Aged (36-55),North District,2,0
+PAT-2174,43,Middle-Aged (36-55),Suburbia,5,1
+PAT-2175,29,Young Adult (18-35),Metro Core,9,3
+PAT-2176,39,Middle-Aged (36-55),East District,2,0
+PAT-2177,11,Pediatric (0-17),East District,3,0
+PAT-2178,43,Middle-Aged (36-55),Metro Core,3,0
+PAT-2179,25,Young Adult (18-35),West District,0,0
+PAT-2180,22,Young Adult (18-35),Riverside,4,0
+PAT-2181,48,Middle-Aged (36-55),South District,2,0
+PAT-2182,72,Senior (56+),Metro Core,3,0
+PAT-2183,63,Senior (56+),North District,4,1
+PAT-2184,13,Pediatric (0-17),Metro Core,4,2
+PAT-2185,25,Young Adult (18-35),North District,3,1
+PAT-2186,63,Senior (56+),Suburbia,0,0
+PAT-2187,25,Young Adult (18-35),South District,3,1
+PAT-2188,40,Middle-Aged (36-55),Riverside,2,0
+PAT-2189,56,Senior (56+),Metro Core,4,1
+PAT-2190,25,Young Adult (18-35),Metro Core,2,0
+PAT-2191,47,Middle-Aged (36-55),Metro Core,3,1
+PAT-2192,18,Young Adult (18-35),Central Valley,4,1
+PAT-2193,32,Young Adult (18-35),South District,2,0
+PAT-2194,51,Middle-Aged (36-55),Metro Core,3,0
+PAT-2195,13,Pediatric (0-17),North District,5,3
+PAT-2196,53,Middle-Aged (36-55),Riverside,4,0
+PAT-2197,44,Middle-Aged (36-55),East District,2,0
+PAT-2198,56,Senior (56+),Suburbia,7,2
+PAT-2199,49,Middle-Aged (36-55),Riverside,4,1
+PAT-2200,72,Senior (56+),South District,2,0
+PAT-2201,47,Middle-Aged (36-55),Metro Core,2,0
+PAT-2202,36,Middle-Aged (36-55),South District,2,1
+PAT-2203,47,Middle-Aged (36-55),West District,3,1
+PAT-2204,55,Middle-Aged (36-55),Metro Core,3,1
+PAT-2205,45,Middle-Aged (36-55),Metro Core,3,2
+PAT-2206,45,Middle-Aged (36-55),South District,4,0
+PAT-2207,30,Young Adult (18-35),Metro Core,2,0
+PAT-2208,31,Young Adult (18-35),Central Valley,3,2
+PAT-2209,16,Pediatric (0-17),Riverside,4,0
+PAT-2210,79,Senior (56+),West District,2,1
+PAT-2211,20,Young Adult (18-35),Riverside,1,0
+PAT-2212,31,Young Adult (18-35),East District,3,2
+PAT-2213,30,Young Adult (18-35),South District,3,1
+PAT-2214,62,Senior (56+),South District,2,0
+PAT-2215,39,Middle-Aged (36-55),West District,1,1
+PAT-2216,69,Senior (56+),Riverside,2,0
+PAT-2217,31,Young Adult (18-35),Riverside,3,0
+PAT-2218,50,Middle-Aged (36-55),East District,3,1
+PAT-2219,28,Young Adult (18-35),West District,2,1
+PAT-2220,87,Senior (56+),South District,3,1
+PAT-2221,21,Young Adult (18-35),East District,3,0
+PAT-2222,51,Middle-Aged (36-55),Central Valley,1,1
+PAT-2223,57,Senior (56+),West District,6,3
+PAT-2224,53,Middle-Aged (36-55),East District,3,1
+PAT-2225,41,Middle-Aged (36-55),East District,5,0
+PAT-2226,42,Middle-Aged (36-55),South District,4,0
+PAT-2227,45,Middle-Aged (36-55),East District,2,0
+PAT-2228,42,Middle-Aged (36-55),Suburbia,2,0
+PAT-2229,64,Senior (56+),Suburbia,6,0
+PAT-2230,88,Senior (56+),Suburbia,0,0
+PAT-2231,33,Young Adult (18-35),Riverside,5,1
+PAT-2232,17,Pediatric (0-17),Riverside,2,0
+PAT-2233,43,Middle-Aged (36-55),East District,1,0
+PAT-2234,88,Senior (56+),Suburbia,2,1
+PAT-2235,28,Young Adult (18-35),South District,1,0
+PAT-2236,77,Senior (56+),Suburbia,6,0
+PAT-2237,78,Senior (56+),Suburbia,4,2
+PAT-2238,33,Young Adult (18-35),Central Valley,1,1
+PAT-2239,56,Senior (56+),Central Valley,4,0
+PAT-2240,77,Senior (56+),North District,4,0
+PAT-2241,37,Middle-Aged (36-55),Riverside,2,2
+PAT-2242,40,Middle-Aged (36-55),South District,0,0
+PAT-2243,33,Young Adult (18-35),Central Valley,5,1
+PAT-2244,24,Young Adult (18-35),Suburbia,1,0
+PAT-2245,32,Young Adult (18-35),Suburbia,2,0
+PAT-2246,20,Young Adult (18-35),North District,3,2
+PAT-2247,45,Middle-Aged (36-55),North District,5,0
+PAT-2248,29,Young Adult (18-35),Riverside,3,2
+PAT-2249,49,Middle-Aged (36-55),Central Valley,3,0
+PAT-2250,13,Pediatric (0-17),South District,5,2
+PAT-2251,51,Middle-Aged (36-55),South District,3,1
+PAT-2252,61,Senior (56+),Metro Core,2,0
+PAT-2253,5,Pediatric (0-17),Suburbia,2,2
+PAT-2254,52,Middle-Aged (36-55),North District,3,0
+PAT-2255,69,Senior (56+),Suburbia,3,0
+PAT-2256,20,Young Adult (18-35),West District,7,0
+PAT-2257,78,Senior (56+),Riverside,4,0
+PAT-2258,53,Middle-Aged (36-55),Suburbia,7,1
+PAT-2259,30,Young Adult (18-35),East District,4,1
+PAT-2260,43,Middle-Aged (36-55),North District,5,2
+PAT-2261,56,Senior (56+),Suburbia,3,1
+PAT-2262,46,Middle-Aged (36-55),South District,1,1
+PAT-2263,55,Middle-Aged (36-55),Riverside,3,0
+PAT-2264,26,Young Adult (18-35),South District,2,1
+PAT-2265,48,Middle-Aged (36-55),East District,4,1
+PAT-2266,16,Pediatric (0-17),North District,2,1
+PAT-2267,42,Middle-Aged (36-55),West District,4,2
+PAT-2268,26,Young Adult (18-35),Suburbia,2,0
+PAT-2269,30,Young Adult (18-35),Suburbia,2,1
+PAT-2270,69,Senior (56+),East District,3,1
+PAT-2271,66,Senior (56+),Riverside,2,0
+PAT-2272,57,Senior (56+),Riverside,1,0
+PAT-2273,23,Young Adult (18-35),Central Valley,4,3
+PAT-2274,38,Middle-Aged (36-55),Metro Core,5,2
+PAT-2275,69,Senior (56+),Metro Core,2,0
+PAT-2276,47,Middle-Aged (36-55),Riverside,5,4
+PAT-2277,88,Senior (56+),North District,4,0
+PAT-2278,52,Middle-Aged (36-55),Riverside,1,1
+PAT-2279,48,Middle-Aged (36-55),South District,0,0
+PAT-2280,38,Middle-Aged (36-55),Riverside,0,0
+PAT-2281,47,Middle-Aged (36-55),South District,6,1
+PAT-2282,41,Middle-Aged (36-55),Metro Core,6,3
+PAT-2283,59,Senior (56+),Central Valley,3,3
+PAT-2284,64,Senior (56+),Central Valley,1,0
+PAT-2285,29,Young Adult (18-35),East District,6,3
+PAT-2286,18,Young Adult (18-35),Riverside,1,0
+PAT-2287,8,Pediatric (0-17),South District,3,2
+PAT-2288,55,Middle-Aged (36-55),East District,8,3
+PAT-2289,22,Young Adult (18-35),Riverside,3,1
+PAT-2290,1,Pediatric (0-17),Central Valley,2,0
+PAT-2291,52,Middle-Aged (36-55),Metro Core,2,0
+PAT-2292,88,Senior (56+),East District,4,0
+PAT-2293,44,Middle-Aged (36-55),South District,3,1
+PAT-2294,61,Senior (56+),Central Valley,3,0
+PAT-2295,46,Middle-Aged (36-55),Metro Core,1,1
+PAT-2296,43,Middle-Aged (36-55),Riverside,3,0
+PAT-2297,63,Senior (56+),East District,3,1
+PAT-2298,39,Middle-Aged (36-55),South District,2,0
+PAT-2299,50,Middle-Aged (36-55),Metro Core,4,2
+PAT-2300,51,Middle-Aged (36-55),Riverside,6,0
+PAT-2301,31,Young Adult (18-35),North District,4,2
+PAT-2302,64,Senior (56+),Riverside,3,0
+PAT-2303,41,Middle-Aged (36-55),Central Valley,2,0
+PAT-2304,29,Young Adult (18-35),East District,1,0
+PAT-2305,55,Middle-Aged (36-55),West District,2,0
+PAT-2306,27,Young Adult (18-35),Riverside,3,2
+PAT-2307,45,Middle-Aged (36-55),Suburbia,6,2
+PAT-2308,44,Middle-Aged (36-55),West District,2,0
+PAT-2309,66,Senior (56+),West District,5,0
+PAT-2310,54,Middle-Aged (36-55),East District,1,0
+PAT-2311,44,Middle-Aged (36-55),East District,4,1
+PAT-2312,61,Senior (56+),South District,5,0
+PAT-2313,72,Senior (56+),Central Valley,3,3
+PAT-2314,56,Senior (56+),South District,3,0
+PAT-2315,45,Middle-Aged (36-55),North District,3,1
+PAT-2316,18,Young Adult (18-35),Riverside,3,0
+PAT-2317,23,Young Adult (18-35),East District,4,1
+PAT-2318,38,Middle-Aged (36-55),Metro Core,5,1
+PAT-2319,32,Young Adult (18-35),East District,5,0
+PAT-2320,41,Middle-Aged (36-55),East District,2,0
+PAT-2321,46,Middle-Aged (36-55),East District,4,1
+PAT-2322,55,Middle-Aged (36-55),East District,3,0
+PAT-2323,43,Middle-Aged (36-55),Suburbia,4,0
+PAT-2324,54,Middle-Aged (36-55),North District,1,0
+PAT-2325,46,Middle-Aged (36-55),Metro Core,2,1
+PAT-2326,5,Pediatric (0-17),Riverside,4,0
+PAT-2327,26,Young Adult (18-35),West District,1,0
+PAT-2328,42,Middle-Aged (36-55),Suburbia,5,1
+PAT-2329,20,Young Adult (18-35),Central Valley,4,1
+PAT-2330,56,Senior (56+),Suburbia,2,0
+PAT-2331,75,Senior (56+),West District,1,0
+PAT-2332,69,Senior (56+),West District,2,1
+PAT-2333,40,Middle-Aged (36-55),Central Valley,3,0
+PAT-2334,74,Senior (56+),Suburbia,3,0
+PAT-2335,47,Middle-Aged (36-55),West District,4,2
+PAT-2336,38,Middle-Aged (36-55),Riverside,6,0
+PAT-2337,32,Young Adult (18-35),Suburbia,3,1
+PAT-2338,38,Middle-Aged (36-55),Suburbia,2,0
+PAT-2339,37,Middle-Aged (36-55),Central Valley,2,0
+PAT-2340,48,Middle-Aged (36-55),Metro Core,1,0
+PAT-2341,48,Middle-Aged (36-55),Metro Core,4,2
+PAT-2342,45,Middle-Aged (36-55),East District,3,0
+PAT-2343,53,Middle-Aged (36-55),West District,2,0
+PAT-2344,68,Senior (56+),East District,2,0
+PAT-2345,63,Senior (56+),Central Valley,1,0
+PAT-2346,15,Pediatric (0-17),North District,4,2
+PAT-2347,1,Pediatric (0-17),Suburbia,4,0
+PAT-2348,63,Senior (56+),Riverside,3,0
+PAT-2349,17,Pediatric (0-17),South District,3,2
+PAT-2350,40,Middle-Aged (36-55),South District,2,0
+PAT-2351,21,Young Adult (18-35),Central Valley,6,4
+PAT-2352,8,Pediatric (0-17),South District,2,0
+PAT-2353,55,Middle-Aged (36-55),East District,2,0
+PAT-2354,60,Senior (56+),Central Valley,1,0
+PAT-2355,33,Young Adult (18-35),Suburbia,2,0
+PAT-2356,1,Pediatric (0-17),East District,6,3
+PAT-2357,34,Young Adult (18-35),Metro Core,2,2
+PAT-2358,52,Middle-Aged (36-55),South District,1,0
+PAT-2359,15,Pediatric (0-17),West District,5,0
+PAT-2360,48,Middle-Aged (36-55),Suburbia,1,0
+PAT-2361,44,Middle-Aged (36-55),Riverside,2,1
+PAT-2362,56,Senior (56+),North District,5,0
+PAT-2363,47,Middle-Aged (36-55),Metro Core,2,0
+PAT-2364,25,Young Adult (18-35),North District,3,0
+PAT-2365,68,Senior (56+),Metro Core,2,0
+PAT-2366,41,Middle-Aged (36-55),Riverside,2,1
+PAT-2367,44,Middle-Aged (36-55),West District,3,1
+PAT-2368,26,Young Adult (18-35),Metro Core,5,2
+PAT-2369,36,Middle-Aged (36-55),South District,4,1
+PAT-2370,27,Young Adult (18-35),Riverside,5,2
+PAT-2371,41,Middle-Aged (36-55),West District,3,2
+PAT-2372,79,Senior (56+),North District,4,0
+PAT-2373,17,Pediatric (0-17),Riverside,0,0
+PAT-2374,12,Pediatric (0-17),South District,3,0
+PAT-2375,74,Senior (56+),Riverside,2,0
+PAT-2376,40,Middle-Aged (36-55),East District,9,5
+PAT-2377,31,Young Adult (18-35),East District,6,1
+PAT-2378,65,Senior (56+),North District,2,0
+PAT-2379,32,Young Adult (18-35),Central Valley,3,2
+PAT-2380,81,Senior (56+),Suburbia,3,0
+PAT-2381,58,Senior (56+),East District,3,0
+PAT-2382,35,Young Adult (18-35),Suburbia,3,2
+PAT-2383,88,Senior (56+),Suburbia,3,0
+PAT-2384,32,Young Adult (18-35),North District,4,0
+PAT-2385,59,Senior (56+),South District,2,1
+PAT-2386,50,Middle-Aged (36-55),North District,0,0
+PAT-2387,71,Senior (56+),Central Valley,1,0
+PAT-2388,76,Senior (56+),West District,2,0
+PAT-2389,45,Middle-Aged (36-55),East District,4,2
+PAT-2390,29,Young Adult (18-35),Metro Core,4,2
+PAT-2391,54,Middle-Aged (36-55),South District,2,0
+PAT-2392,31,Young Adult (18-35),Central Valley,3,3
+PAT-2393,85,Senior (56+),West District,2,2
+PAT-2394,47,Middle-Aged (36-55),Central Valley,3,0
+PAT-2395,37,Middle-Aged (36-55),South District,5,2
+PAT-2396,48,Middle-Aged (36-55),North District,4,1
+PAT-2397,18,Young Adult (18-35),West District,4,0
+PAT-2398,25,Young Adult (18-35),Metro Core,2,0
+PAT-2399,69,Senior (56+),Suburbia,4,1
+PAT-2400,31,Young Adult (18-35),South District,4,3
+PAT-2401,24,Young Adult (18-35),South District,5,4
+PAT-2402,55,Middle-Aged (36-55),Suburbia,9,0
+PAT-2403,68,Senior (56+),North District,3,1
+PAT-2404,59,Senior (56+),West District,3,2
+PAT-2405,64,Senior (56+),East District,2,0
+PAT-2406,29,Young Adult (18-35),Central Valley,4,1
+PAT-2407,16,Pediatric (0-17),Metro Core,8,2
+PAT-2408,75,Senior (56+),North District,1,1
+PAT-2409,38,Middle-Aged (36-55),Riverside,2,0
+PAT-2410,39,Middle-Aged (36-55),West District,4,0
+PAT-2411,71,Senior (56+),Metro Core,5,1
+PAT-2412,56,Senior (56+),East District,1,1
+PAT-2413,54,Middle-Aged (36-55),South District,9,1
+PAT-2414,88,Senior (56+),Riverside,5,0
+PAT-2415,32,Young Adult (18-35),South District,2,1
+PAT-2416,63,Senior (56+),North District,3,2
+PAT-2417,46,Middle-Aged (36-55),Metro Core,5,2
+PAT-2418,50,Middle-Aged (36-55),Suburbia,2,0
+PAT-2419,75,Senior (56+),North District,2,2
+PAT-2420,55,Middle-Aged (36-55),Metro Core,2,1
+PAT-2421,55,Middle-Aged (36-55),Riverside,2,0
+PAT-2422,66,Senior (56+),Central Valley,4,0
+PAT-2423,37,Middle-Aged (36-55),North District,1,0
+PAT-2424,28,Young Adult (18-35),Riverside,1,0
+PAT-2425,24,Young Adult (18-35),South District,3,0
+PAT-2426,5,Pediatric (0-17),Riverside,6,0
+PAT-2427,86,Senior (56+),West District,6,4
+PAT-2428,22,Young Adult (18-35),South District,3,1
+PAT-2429,40,Middle-Aged (36-55),Riverside,10,1
+PAT-2430,39,Middle-Aged (36-55),East District,3,0
+PAT-2431,51,Middle-Aged (36-55),North District,1,0
+PAT-2432,61,Senior (56+),Riverside,2,0
+PAT-2433,62,Senior (56+),Riverside,5,1
+PAT-2434,33,Young Adult (18-35),East District,6,2
+PAT-2435,41,Middle-Aged (36-55),Suburbia,5,2
+PAT-2436,50,Middle-Aged (36-55),Suburbia,2,1
+PAT-2437,40,Middle-Aged (36-55),East District,2,0
+PAT-2438,77,Senior (56+),East District,3,0
+PAT-2439,54,Middle-Aged (36-55),South District,2,0
+PAT-2440,59,Senior (56+),Suburbia,6,1
+PAT-2441,58,Senior (56+),North District,4,3
+PAT-2442,68,Senior (56+),Central Valley,3,0
+PAT-2443,48,Middle-Aged (36-55),West District,5,0
+PAT-2444,19,Young Adult (18-35),North District,3,1
+PAT-2445,52,Middle-Aged (36-55),West District,2,1
+PAT-2446,31,Young Adult (18-35),North District,1,1
+PAT-2447,34,Young Adult (18-35),Riverside,5,1
+PAT-2448,56,Senior (56+),Central Valley,1,1
+PAT-2449,69,Senior (56+),Metro Core,6,4
+PAT-2450,45,Middle-Aged (36-55),Suburbia,5,0
+PAT-2451,51,Middle-Aged (36-55),Central Valley,1,0
+PAT-2452,79,Senior (56+),North District,3,1
+PAT-2453,49,Middle-Aged (36-55),West District,5,1
+PAT-2454,88,Senior (56+),Central Valley,2,0
+PAT-2455,56,Senior (56+),Riverside,1,1
+PAT-2456,9,Pediatric (0-17),North District,2,0
+PAT-2457,60,Senior (56+),Riverside,2,0
+PAT-2458,52,Middle-Aged (36-55),Central Valley,4,0
+PAT-2459,70,Senior (56+),South District,3,1
+PAT-2460,58,Senior (56+),Riverside,4,0
+PAT-2461,42,Middle-Aged (36-55),Metro Core,5,0
+PAT-2462,20,Young Adult (18-35),Metro Core,3,0
+PAT-2463,40,Middle-Aged (36-55),Suburbia,4,1
+PAT-2464,27,Young Adult (18-35),Metro Core,1,0
+PAT-2465,33,Young Adult (18-35),Riverside,1,0
+PAT-2466,56,Senior (56+),East District,2,0
+PAT-2467,78,Senior (56+),Suburbia,1,0
+PAT-2468,52,Middle-Aged (36-55),Suburbia,1,0
+PAT-2469,21,Young Adult (18-35),Riverside,3,2
+PAT-2470,53,Middle-Aged (36-55),Central Valley,4,1
+PAT-2471,68,Senior (56+),South District,1,0
+PAT-2472,32,Young Adult (18-35),Metro Core,4,1
+PAT-2473,42,Middle-Aged (36-55),South District,1,1
+PAT-2474,45,Middle-Aged (36-55),Metro Core,2,0
+PAT-2475,29,Young Adult (18-35),East District,3,0
+PAT-2476,57,Senior (56+),Central Valley,1,0
+PAT-2477,42,Middle-Aged (36-55),Riverside,5,2
+PAT-2478,53,Middle-Aged (36-55),South District,5,1
+PAT-2479,27,Young Adult (18-35),South District,1,0
+PAT-2480,36,Middle-Aged (36-55),Riverside,3,0
+PAT-2481,59,Senior (56+),Central Valley,3,0
+PAT-2482,37,Middle-Aged (36-55),Central Valley,3,1
+PAT-2483,79,Senior (56+),Suburbia,0,0
+PAT-2484,37,Middle-Aged (36-55),Metro Core,3,0
+PAT-2485,49,Middle-Aged (36-55),East District,3,0
+PAT-2486,63,Senior (56+),Suburbia,2,1
+PAT-2487,16,Pediatric (0-17),Riverside,1,1
+PAT-2488,9,Pediatric (0-17),Suburbia,2,0
+PAT-2489,14,Pediatric (0-17),North District,3,1
+PAT-2490,70,Senior (56+),Riverside,2,0
+PAT-2491,33,Young Adult (18-35),Metro Core,5,1
+PAT-2492,88,Senior (56+),Central Valley,2,1
+PAT-2493,33,Young Adult (18-35),North District,2,2
+PAT-2494,48,Middle-Aged (36-55),South District,7,1
+PAT-2495,75,Senior (56+),Metro Core,2,1
+PAT-2496,85,Senior (56+),Riverside,0,0
+PAT-2497,86,Senior (56+),East District,3,1
+PAT-2498,69,Senior (56+),North District,5,1
+PAT-2499,65,Senior (56+),East District,1,0
+PAT-2500,56,Senior (56+),Suburbia,2,0
